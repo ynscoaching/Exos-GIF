@@ -1,0 +1,6244 @@
+[
+  {
+    "fichier": "Bird-Dog.gif",
+    "nom_fr": "Bird dog",
+    "nom_en": "Bird dog",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "scissor-kicks.gif",
+    "nom_fr": "Ciseaux",
+    "nom_en": "Scissor kicks",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS tesoura"
+  },
+  {
+    "fichier": "crunch.gif",
+    "nom_fr": "Crunch",
+    "nom_en": "Crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "crunch"
+  },
+  {
+    "fichier": "crunch-floor.gif",
+    "nom_fr": "Crunch au sol",
+    "nom_en": "Crunch floor",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "crunch-floor"
+  },
+  {
+    "fichier": "ab-roller-crunch.gif",
+    "nom_fr": "Crunch au sol type roue abdominale",
+    "nom_en": "Ab roller crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS  rolinho"
+  },
+  {
+    "fichier": "weighted-feet-crunch.gif",
+    "nom_fr": "Crunch avec charge aux pieds",
+    "nom_en": "Weighted feet crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS carga nos pés"
+  },
+  {
+    "fichier": "side-bend-crunch.gif",
+    "nom_fr": "Crunch avec flexion latérale",
+    "nom_en": "Side bend crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS com flexão lateral"
+  },
+  {
+    "fichier": "alternating-leg-raise-crunch.gif",
+    "nom_fr": "Crunch avec levers de jambes alternés",
+    "nom_en": "Alternating leg raise crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABs pernas alternando"
+  },
+  {
+    "fichier": "ball-pass-crunch.gif",
+    "nom_fr": "Crunch avec passe de ballon",
+    "nom_en": "Ball pass crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Abdominal pegando a bola"
+  },
+  {
+    "fichier": "crunch-with-leg-raise.gif",
+    "nom_fr": "Crunch avec relevé de jambes",
+    "nom_en": "Crunch with leg raise",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Crunch-With-Leg-Raise"
+  },
+  {
+    "fichier": "bicycle-crunch.gif",
+    "nom_fr": "Crunch bicyclette",
+    "nom_en": "Bicycle crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Abdominal bicleta"
+  },
+  {
+    "fichier": "bicycle-crunch-v2.gif",
+    "nom_fr": "Crunch bicyclette (variante)",
+    "nom_en": "Bicycle crunch (variant)",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Bicicleta 2"
+  },
+  {
+    "fichier": "straight-arm-crunch.gif",
+    "nom_fr": "Crunch bras tendus",
+    "nom_en": "Straight arm crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Abd Concentrado Braços estendidos"
+  },
+  {
+    "fichier": "crunch-arms-crossed.gif",
+    "nom_fr": "Crunch concentré",
+    "nom_en": "Crunch arms crossed",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Abdominal Concentrado"
+  },
+  {
+    "fichier": "raised-legs-short-crunch.gif",
+    "nom_fr": "Crunch court jambes surélevées",
+    "nom_en": "Raised legs short crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS curto pernas elevadas"
+  },
+  {
+    "fichier": "decline-crunch.gif",
+    "nom_fr": "Crunch décliné",
+    "nom_en": "Decline crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Abdominal declinado"
+  },
+  {
+    "fichier": "lying-hip-flexion-crunch.gif",
+    "nom_fr": "Crunch en flexion de hanche au sol",
+    "nom_en": "Lying hip flexion crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Flexão de quadril ABS"
+  },
+  {
+    "fichier": "frog-crunch.gif",
+    "nom_fr": "Crunch grenouille",
+    "nom_en": "Frog crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "frog-crunch"
+  },
+  {
+    "fichier": "reverse-crunch.gif",
+    "nom_fr": "Crunch inversé",
+    "nom_en": "Reverse crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Crunch reverso"
+  },
+  {
+    "fichier": "alternating-leg-crunch.gif",
+    "nom_fr": "Crunch jambes alternées",
+    "nom_en": "Alternating leg crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS alternando pernas"
+  },
+  {
+    "fichier": "crunch-legs-raised.gif",
+    "nom_fr": "Crunch jambes surélevées",
+    "nom_en": "Crunch legs raised",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Crunch pernas elevadas"
+  },
+  {
+    "fichier": "side-crunch.gif",
+    "nom_fr": "Crunch latéral",
+    "nom_en": "Side crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Abs lateral"
+  },
+  {
+    "fichier": "stability-ball-side-crunch.gif",
+    "nom_fr": "Crunch latéral sur ballon suisse",
+    "nom_en": "Stability ball side crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Flexão lateral bola"
+  },
+  {
+    "fichier": "weighted-crunch.gif",
+    "nom_fr": "Crunch lesté",
+    "nom_en": "Weighted crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Crunch com carga"
+  },
+  {
+    "fichier": "crunch-hands-behind-head.gif",
+    "nom_fr": "Crunch mains derrière la tête",
+    "nom_en": "Crunch hands behind head",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Crunch 3"
+  },
+  {
+    "fichier": "oblique-crunch.gif",
+    "nom_fr": "Crunch oblique",
+    "nom_en": "Oblique crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS obliquo"
+  },
+  {
+    "fichier": "cross-body-oblique-crunch.gif",
+    "nom_fr": "Crunch oblique croisé",
+    "nom_en": "Cross body oblique crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS oblíquo 3"
+  },
+  {
+    "fichier": "oblique-crunch-straight-legs.gif",
+    "nom_fr": "Crunch oblique jambes tendues",
+    "nom_en": "Oblique crunch straight legs",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS oblíquo pernas extendidas"
+  },
+  {
+    "fichier": "roman-chair-oblique-crunch.gif",
+    "nom_fr": "Crunch oblique sur banc à lombaires",
+    "nom_en": "Roman chair oblique crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Oblíquo banco"
+  },
+  {
+    "fichier": "toe-touch-crunch.gif",
+    "nom_fr": "Crunch pointe des pieds",
+    "nom_en": "Toe touch crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS tocando os pés 2"
+  },
+  {
+    "fichier": "ab-crunch-machine.gif",
+    "nom_fr": "Crunch à la machine",
+    "nom_en": "Ab crunch machine",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS máquina"
+  },
+  {
+    "fichier": "kneeling-cable-crunch.gif",
+    "nom_fr": "Crunch à la poulie haute à genoux",
+    "nom_en": "Kneeling cable crunch",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS polia alta"
+  },
+  {
+    "fichier": "cable-crunch-kneeling-side.gif",
+    "nom_fr": "Crunch à la poulie haute à genoux (vue latérale)",
+    "nom_en": "Cable crunch kneeling side",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS polia alta 2"
+  },
+  {
+    "fichier": "dead-bug.gif",
+    "nom_fr": "Dead bug",
+    "nom_en": "Dead bug",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "dragon-flag.gif",
+    "nom_fr": "Dragon flag",
+    "nom_en": "Dragon flag",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "dragon-flag"
+  },
+  {
+    "fichier": "cable-side-bend.gif",
+    "nom_fr": "Flexion latérale à la poulie basse",
+    "nom_en": "Cable side bend",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "oblíquo polia baixa"
+  },
+  {
+    "fichier": "hollow-body-hold.png",
+    "nom_fr": "Gainage creux (hollow)",
+    "nom_en": "Hollow body hold",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Abs isometrico"
+  },
+  {
+    "fichier": "hollow-body-alternating-legs.gif",
+    "nom_fr": "Gainage creux jambes alternées",
+    "nom_en": "Hollow body alternating legs",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Abs isométrico alternando pernas"
+  },
+  {
+    "fichier": "mountain-climber.gif",
+    "nom_fr": "Mountain climber",
+    "nom_en": "Mountain climber",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Escalador"
+  },
+  {
+    "fichier": "cross-body-mountain-climber.gif",
+    "nom_fr": "Mountain climber croisé",
+    "nom_en": "Cross body mountain climber",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Escalador cruzado"
+  },
+  {
+    "fichier": "Pallof press.gif",
+    "nom_fr": "Pallof press",
+    "nom_en": "Pallof press",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "rotation-buste-elastique-pallof-press.gif",
+    "nom_fr": "Pallof press en rotation à l'élastique",
+    "nom_en": "Band Pallof press with rotation",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "resistance-band-side-step-with-horizontal-pallof-hold.webp",
+    "nom_fr": "Pas chassés avec Pallof tenu",
+    "nom_en": "Band side step with Pallof hold",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "plank-forward-backward.gif",
+    "nom_fr": "Planche avec balancier avant-arrière",
+    "nom_en": "Plank forward backward",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Prancha frente trás"
+  },
+  {
+    "fichier": "plank-hip-dips.gif",
+    "nom_fr": "Planche avec rotation des hanches",
+    "nom_en": "Plank hip dips",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Prancha com flexão lateral de quadril"
+  },
+  {
+    "fichier": "front-plank-toe-tap.webp",
+    "nom_fr": "Planche avec touches de pieds",
+    "nom_en": "Front plank toe tap",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "41701301-Bear-Plank_Plyometric_360.gif",
+    "nom_fr": "Planche de l'ours",
+    "nom_en": "Bear plank",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "stability-ball-plank-knee-tuck.gif",
+    "nom_fr": "Planche dynamique sur ballon suisse",
+    "nom_en": "Stability ball plank knee tuck",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Prancha dinamica bola"
+  },
+  {
+    "fichier": "side-plank.jpg",
+    "nom_fr": "Planche latérale",
+    "nom_en": "Side plank",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Prancha lateral"
+  },
+  {
+    "fichier": "side-plank-hip-adduction.gif",
+    "nom_fr": "Planche latérale avec adduction de hanche",
+    "nom_en": "Side plank hip adduction",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "side-plank-hip-dip.gif",
+    "nom_fr": "Planche latérale avec descente de hanche",
+    "nom_en": "Side plank hip dip",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Prancha lateral com flexão lateral"
+  },
+  {
+    "fichier": "twist-side-bridge.webp",
+    "nom_fr": "Planche latérale avec rotation",
+    "nom_en": "Side bridge with twist",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "forearm-plank.gif",
+    "nom_fr": "Planche sur les avant-bras",
+    "nom_en": "Forearm plank",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Prancha"
+  },
+  {
+    "fichier": "straight-leg-v-up-rower.gif",
+    "nom_fr": "Rameur au sol jambes tendues",
+    "nom_en": "Straight leg v up rower",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS remador pernas extendidas"
+  },
+  {
+    "fichier": "reverse-crunch-lower-abs.gif",
+    "nom_fr": "Relevé de bassin (abdos inférieurs)",
+    "nom_en": "Reverse crunch lower abs",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS infra"
+  },
+  {
+    "fichier": "hanging-straight-leg-hip-raise.webp",
+    "nom_fr": "Relevé de bassin suspendu jambes tendues",
+    "nom_en": "Hanging straight-leg hip raise",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "bench-seated-knee-tuck.gif",
+    "nom_fr": "Relevé de genoux assis sur banc",
+    "nom_en": "Bench seated knee tuck",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Abs banco"
+  },
+  {
+    "fichier": "stability-ball-knee-tuck.gif",
+    "nom_fr": "Relevé de genoux sur ballon suisse",
+    "nom_en": "Stability ball knee tuck",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Abs bola flexão de quadril"
+  },
+  {
+    "fichier": "hanging-knee-raise.gif",
+    "nom_fr": "Relevé de genoux suspendu",
+    "nom_en": "Hanging knee raise",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Hanging-Knee-Raises"
+  },
+  {
+    "fichier": "seated-in-out-leg-raise-on-floor.webp",
+    "nom_fr": "Relevé de jambes assis rentré-sorti",
+    "nom_en": "Seated in-and-out leg raise",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "seated-bench-leg-tuck.gif",
+    "nom_fr": "Relevé de jambes assis sur banc",
+    "nom_en": "Seated bench leg tuck",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Flexão de quadril banco"
+  },
+  {
+    "fichier": "lying-leg-raise.gif",
+    "nom_fr": "Relevé de jambes au sol",
+    "nom_en": "Lying leg raise",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação de pernas solo"
+  },
+  {
+    "fichier": "leg-raise-hip-lift.gif",
+    "nom_fr": "Relevé de jambes avec décollé du bassin",
+    "nom_en": "Leg raise with hip lift",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "bench-leg-raise.gif",
+    "nom_fr": "Relevé de jambes sur banc",
+    "nom_en": "Bench leg raise",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação de pernas banco"
+  },
+  {
+    "fichier": "hanging-leg-raise.webp",
+    "nom_fr": "Relevé de jambes suspendu",
+    "nom_en": "Hanging leg raise",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "hanging-straight-leg-raise.webp",
+    "nom_fr": "Relevé de jambes tendues suspendu",
+    "nom_en": "Hanging straight-leg raise",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "hanging-straight-leg-raise (1).webp",
+    "nom_fr": "Relevé de jambes tendues suspendu (variante)",
+    "nom_en": "Hanging straight-leg raise (variant)",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "51071301-Captains-Chair-Leg-Raise_Hips_360.gif",
+    "nom_fr": "Relevé de jambes à la chaise romaine",
+    "nom_en": "Captain's chair leg raise",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "cable-low-to-high-woodchop.gif",
+    "nom_fr": "Rotation du buste en diagonale basse-haute à la poulie",
+    "nom_en": "Cable low to high woodchop",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Rotação de tronco diagonal baixa"
+  },
+  {
+    "fichier": "wheel-rollout.webp",
+    "nom_fr": "Roue abdominale",
+    "nom_en": "Ab wheel rollout",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "standing-wheel-rollout.webp",
+    "nom_fr": "Roue abdominale debout",
+    "nom_en": "Standing ab wheel rollout",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "barbell-rollout.gif",
+    "nom_fr": "Roulé abdominal à la barre",
+    "nom_en": "Barbell rollout",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS rolinho com barra"
+  },
+  {
+    "fichier": "russian-twist.gif",
+    "nom_fr": "Russian twist",
+    "nom_en": "Russian twist",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Russian twist"
+  },
+  {
+    "fichier": "dumbbell-russian-twist-with-legs-floor-off.webp",
+    "nom_fr": "Russian twist à l'haltère pieds décollés",
+    "nom_en": "Dumbbell Russian twist, feet off the floor",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "twisting-sit-up.gif",
+    "nom_fr": "Sit-up avec rotation du buste",
+    "nom_en": "Twisting sit up",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Abdominal com rotação de tronco"
+  },
+  {
+    "fichier": "conventional-sit-up.gif",
+    "nom_fr": "Sit-up classique",
+    "nom_en": "Conventional sit up",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "conventional-sit-up"
+  },
+  {
+    "fichier": "full-sit-up.gif",
+    "nom_fr": "Sit-up complet",
+    "nom_en": "Full sit up",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS completo"
+  },
+  {
+    "fichier": "toe-touch-sit-up.gif",
+    "nom_fr": "Sit-up en touchant les pieds",
+    "nom_en": "Toe touch sit up",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "Abs completo tocando os pés"
+  },
+  {
+    "fichier": "weighted-sit-up.gif",
+    "nom_fr": "Sit-up lesté",
+    "nom_en": "Weighted sit up",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "weightedsitups"
+  },
+  {
+    "fichier": "butterfly-sit-up.gif",
+    "nom_fr": "Sit-up papillon",
+    "nom_en": "Butterfly sit up",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS borboleta"
+  },
+  {
+    "fichier": "stability-ball-sit-up.gif",
+    "nom_fr": "Sit-up sur ballon suisse",
+    "nom_en": "Stability ball sit up",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ball-sit-up"
+  },
+  {
+    "fichier": "decline-bench-sit-up.gif",
+    "nom_fr": "Sit-up sur banc décliné",
+    "nom_en": "Decline bench sit up",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "ABS banco declinado completo"
+  },
+  {
+    "fichier": "lying-toe-tap.webp",
+    "nom_fr": "Touches de pieds allongé",
+    "nom_en": "Lying toe tap",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "kettlebell-turkish-get-up-to-hand.webp",
+    "nom_fr": "Turkish get-up au kettlebell (jusqu'à la main)",
+    "nom_en": "Kettlebell Turkish get-up (to hand)",
+    "zone": "abdominaux",
+    "source": "existant"
+  },
+  {
+    "fichier": "v-sit-up.gif",
+    "nom_fr": "V-up",
+    "nom_en": "V sit up",
+    "zone": "abdominaux",
+    "source": "drive-animacoes",
+    "nom_pt": "v-sit-ups"
+  },
+  {
+    "fichier": "barbell-skull-crusher.gif",
+    "nom_fr": "Barre au front",
+    "nom_en": "Barbell skull crusher",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps testa 01"
+  },
+  {
+    "fichier": "barbell-skull-crusher-v2.gif",
+    "nom_fr": "Barre au front (variante)",
+    "nom_en": "Barbell skull crusher (variant)",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps testa com barra"
+  },
+  {
+    "fichier": "reverse-grip-skull-crusher.gif",
+    "nom_fr": "Barre au front prise supination",
+    "nom_en": "Reverse grip skull crusher",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps testa supinado"
+  },
+  {
+    "fichier": "incline-skull-crusher.gif",
+    "nom_fr": "Barre au front sur banc incliné",
+    "nom_en": "Incline skull crusher",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps testa inclinado"
+  },
+  {
+    "fichier": "incline-skull-crusher-v2.gif",
+    "nom_fr": "Barre au front sur banc incliné (variante)",
+    "nom_en": "Incline skull crusher (variant)",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps testa incliando 02"
+  },
+  {
+    "fichier": "lying-cable-triceps-extension.gif",
+    "nom_fr": "Barre au front à la poulie",
+    "nom_en": "Lying cable triceps extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps testa no cabo"
+  },
+  {
+    "fichier": "alternating-dumbbell-preacher-curl.gif",
+    "nom_fr": "Curl alterné au pupitre",
+    "nom_en": "Alternating dumbbell preacher curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca scott alternada"
+  },
+  {
+    "fichier": "alternating-dumbbell-curl.gif",
+    "nom_fr": "Curl alterné aux haltères",
+    "nom_en": "Alternating dumbbell curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca alternada com giro"
+  },
+  {
+    "fichier": "alternating-neutral-grip-curl.gif",
+    "nom_fr": "Curl alterné prise neutre",
+    "nom_en": "Alternating neutral grip curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca alternada pegada neutra"
+  },
+  {
+    "fichier": "incline-bench-alternating-curl.gif",
+    "nom_fr": "Curl alterné sur banc incliné",
+    "nom_en": "Incline bench alternating curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca alternada no banco inclinado"
+  },
+  {
+    "fichier": "alternating-biceps-curl-machine.gif",
+    "nom_fr": "Curl alterné à la machine",
+    "nom_en": "Alternating biceps curl machine",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca alternada aparelho biarticular"
+  },
+  {
+    "fichier": "dumbbell-spider-curl.gif",
+    "nom_fr": "Curl araignée aux haltères",
+    "nom_en": "Dumbbell spider curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca apoio banco 02"
+  },
+  {
+    "fichier": "barbell-spider-curl.gif",
+    "nom_fr": "Curl araignée à la barre",
+    "nom_en": "Barbell spider curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca apoio no banco"
+  },
+  {
+    "fichier": "barbell-preacher-curl.gif",
+    "nom_fr": "Curl au pupitre barre droite",
+    "nom_en": "Barbell preacher curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca scott barra reta"
+  },
+  {
+    "fichier": "standing-dumbbell-preacher-curl.gif",
+    "nom_fr": "Curl au pupitre debout aux haltères",
+    "nom_en": "Standing dumbbell preacher curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca scott com halteres em pé"
+  },
+  {
+    "fichier": "standing-ez-bar-preacher-curl.gif",
+    "nom_fr": "Curl au pupitre debout à la barre EZ",
+    "nom_en": "Standing EZ bar preacher curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca direta apaiada no banco barra W"
+  },
+  {
+    "fichier": "preacher-curl-machine-neutral.gif",
+    "nom_fr": "Curl au pupitre machine prise neutre",
+    "nom_en": "Preacher curl machine neutral",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca neutra no banco scort aparelho"
+  },
+  {
+    "fichier": "dumbbell-preacher-curl.gif",
+    "nom_fr": "Curl au pupitre à l'haltère",
+    "nom_en": "Dumbbell preacher curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "dumbbell-preacher-curl"
+  },
+  {
+    "fichier": "barbell-preacher-curl-v2.gif",
+    "nom_fr": "Curl au pupitre à la barre (variante)",
+    "nom_en": "Barbell preacher curl (variant)",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca  direta no banco scort"
+  },
+  {
+    "fichier": "ez-bar-preacher-curl.gif",
+    "nom_fr": "Curl au pupitre à la barre EZ",
+    "nom_en": "EZ bar preacher curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "ez-bar-preacher-curl"
+  },
+  {
+    "fichier": "ez-bar-preacher-curl-v2.gif",
+    "nom_fr": "Curl au pupitre à la barre EZ (variante)",
+    "nom_en": "EZ bar preacher curl (variant)",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca no banco scort barra W"
+  },
+  {
+    "fichier": "preacher-curl-machine.gif",
+    "nom_fr": "Curl au pupitre à la machine",
+    "nom_en": "Preacher curl machine",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca no scort"
+  },
+  {
+    "fichier": "cable-preacher-curl.gif",
+    "nom_fr": "Curl au pupitre à la poulie",
+    "nom_en": "Cable preacher curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "cable-preacher-curl"
+  },
+  {
+    "fichier": "arm-blaster-curl.gif",
+    "nom_fr": "Curl avec arm blaster",
+    "nom_en": "Arm blaster curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "arm-blaster-benefits"
+  },
+  {
+    "fichier": "seated-dumbbell-twist-curl.gif",
+    "nom_fr": "Curl avec rotation assis",
+    "nom_en": "Seated dumbbell twist curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca com rotação"
+  },
+  {
+    "fichier": "bayesian-curl.gif",
+    "nom_fr": "Curl bayésien",
+    "nom_en": "Bayesian curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "bayesian-curl"
+  },
+  {
+    "fichier": "dumbbell-biceps-curl.gif",
+    "nom_fr": "Curl biceps aux haltères",
+    "nom_en": "Dumbbell biceps curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "dumbbell-bicep-curl"
+  },
+  {
+    "fichier": "dumbbell-cross-body-curl.gif",
+    "nom_fr": "Curl biceps en diagonale",
+    "nom_en": "Dumbbell cross body curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca bíceps diagonal"
+  },
+  {
+    "fichier": "dumbbell-incline-biceps-curl.webp",
+    "nom_fr": "Curl biceps incliné aux haltères",
+    "nom_en": "Dumbbell incline biceps curl",
+    "zone": "bras",
+    "source": "existant"
+  },
+  {
+    "fichier": "cable-incline-biceps-curl.webp",
+    "nom_fr": "Curl biceps incliné à la poulie",
+    "nom_en": "Cable incline biceps curl",
+    "zone": "bras",
+    "source": "existant"
+  },
+  {
+    "fichier": "band-close-grip-biceps-curl.webp",
+    "nom_fr": "Curl biceps prise serrée à l'élastique",
+    "nom_en": "Band close-grip biceps curl",
+    "zone": "bras",
+    "source": "existant"
+  },
+  {
+    "fichier": "barbell-curl.gif",
+    "nom_fr": "Curl biceps à la barre",
+    "nom_en": "Barbell curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "barbell-curl"
+  },
+  {
+    "fichier": "biceps-curl-machine.gif",
+    "nom_fr": "Curl biceps à la machine",
+    "nom_en": "Biceps curl machine",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "bicep-curl-machine"
+  },
+  {
+    "fichier": "cable-curl-standing.gif",
+    "nom_fr": "Curl biceps à la poulie",
+    "nom_en": "Cable curl standing",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca bíceps no cabo"
+  },
+  {
+    "fichier": "cable-biceps-curl.gif",
+    "nom_fr": "Curl biceps à la poulie basse",
+    "nom_en": "Cable biceps curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "cable-bicep-curl"
+  },
+  {
+    "fichier": "high-cable-double-curl.gif",
+    "nom_fr": "Curl biceps à la poulie haute",
+    "nom_en": "High cable double curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca lateral polia alta"
+  },
+  {
+    "fichier": "concentration-curl.gif",
+    "nom_fr": "Curl concentré",
+    "nom_en": "Concentration curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca Concentrada"
+  },
+  {
+    "fichier": "concentration-curl-female.gif",
+    "nom_fr": "Curl concentré (femme)",
+    "nom_en": "Concentration curl female",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca concentrada feminino"
+  },
+  {
+    "fichier": "seated-concentration-curl-v2.gif",
+    "nom_fr": "Curl concentré assis (variante)",
+    "nom_en": "Seated concentration curl (variant)",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca Concentrada 2"
+  },
+  {
+    "fichier": "cable-concentration-curl.gif",
+    "nom_fr": "Curl concentré à la poulie",
+    "nom_en": "Cable concentration curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "biceps concentrado unilateral no cross"
+  },
+  {
+    "fichier": "high-cable-biceps-curl-double.gif",
+    "nom_fr": "Curl double à la poulie haute",
+    "nom_en": "High cable biceps curl double",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "biceps polia alta dupla"
+  },
+  {
+    "fichier": "curl-haltere-incline.gif",
+    "nom_fr": "Curl incliné aux haltères",
+    "nom_en": "Incline dumbbell curl",
+    "zone": "bras",
+    "source": "existant"
+  },
+  {
+    "fichier": "dumbbell-reverse-curl.gif",
+    "nom_fr": "Curl inversé aux haltères",
+    "nom_en": "Dumbbell reverse curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "dumbbell-reverse-curl"
+  },
+  {
+    "fichier": "ez-bar-reverse-curl.gif",
+    "nom_fr": "Curl inversé à la barre EZ",
+    "nom_en": "EZ bar reverse curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca dierata pegada invertida barra W"
+  },
+  {
+    "fichier": "dumbbell-lateral-curl.gif",
+    "nom_fr": "Curl latéral aux haltères",
+    "nom_en": "Dumbbell lateral curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca lateral"
+  },
+  {
+    "fichier": "lying-cable-lateral-curl.gif",
+    "nom_fr": "Curl latéral à la poulie allongé",
+    "nom_en": "Lying cable lateral curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca lateral no cabo"
+  },
+  {
+    "fichier": "dumbbell-hammer-curl.gif",
+    "nom_fr": "Curl marteau",
+    "nom_en": "Dumbbell hammer curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "dumbbell-hammer-curl"
+  },
+  {
+    "fichier": "alternating-hammer-curl.gif",
+    "nom_fr": "Curl marteau alterné",
+    "nom_en": "Alternating hammer curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca martelo alternada"
+  },
+  {
+    "fichier": "seated-alternating-hammer-curl.gif",
+    "nom_fr": "Curl marteau alterné assis",
+    "nom_en": "Seated alternating hammer curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca unilateral com halteres sentado no banco"
+  },
+  {
+    "fichier": "dumbbell-preacher-hammer-curl.gif",
+    "nom_fr": "Curl marteau au pupitre",
+    "nom_en": "Dumbbell preacher hammer curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca martelo scott"
+  },
+  {
+    "fichier": "preacher-hammer-curl.gif",
+    "nom_fr": "Curl marteau au pupitre (variante)",
+    "nom_en": "Preacher hammer curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca scott martelo"
+  },
+  {
+    "fichier": "single-arm-preacher-hammer-curl.gif",
+    "nom_fr": "Curl marteau au pupitre unilatéral",
+    "nom_en": "Single arm preacher hammer curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca scott martelo unilateral"
+  },
+  {
+    "fichier": "dumbbell-hammer-curl-standing.gif",
+    "nom_fr": "Curl marteau aux haltères",
+    "nom_en": "Dumbbell hammer curl standing",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca martelo 01"
+  },
+  {
+    "fichier": "arm-blaster-hammer-curl.gif",
+    "nom_fr": "Curl marteau avec arm blaster",
+    "nom_en": "Arm blaster hammer curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca martelo suporte braquial"
+  },
+  {
+    "fichier": "dumbbell-cross-body-hammer-curl.webp",
+    "nom_fr": "Curl marteau croisé",
+    "nom_en": "Dumbbell cross-body hammer curl",
+    "zone": "bras",
+    "source": "existant"
+  },
+  {
+    "fichier": "dumbbell-incline-hammer-curl.gif",
+    "nom_fr": "Curl marteau sur banc incliné",
+    "nom_en": "Dumbbell incline hammer curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "dumbbell-incline-hammer-curl"
+  },
+  {
+    "fichier": "single-arm-neutral-preacher-curl.gif",
+    "nom_fr": "Curl marteau unilatéral au pupitre",
+    "nom_en": "Single arm neutral preacher curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca neutra  unilateral no banco scort"
+  },
+  {
+    "fichier": "resistance-band-hammer-curl.webp",
+    "nom_fr": "Curl marteau à l'élastique",
+    "nom_en": "Band hammer curl",
+    "zone": "bras",
+    "source": "existant"
+  },
+  {
+    "fichier": "rope-hammer-curl.gif",
+    "nom_fr": "Curl marteau à la corde",
+    "nom_en": "Rope hammer curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca martelo corda"
+  },
+  {
+    "fichier": "dumbbell-partial-curl.gif",
+    "nom_fr": "Curl partiel aux haltères",
+    "nom_en": "Dumbbell partial curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca direta curta"
+  },
+  {
+    "fichier": "neutral-grip-dumbbell-curl.gif",
+    "nom_fr": "Curl prise neutre aux haltères",
+    "nom_en": "Neutral grip dumbbell curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca neutra com halteres"
+  },
+  {
+    "fichier": "dumbbell-reverse-grip-curl.gif",
+    "nom_fr": "Curl pronation aux haltères",
+    "nom_en": "Dumbbell reverse grip curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca inversa com halteres"
+  },
+  {
+    "fichier": "cable-reverse-curl.gif",
+    "nom_fr": "Curl pronation à la poulie",
+    "nom_en": "Cable reverse curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca inversa no cabo"
+  },
+  {
+    "fichier": "prone-incline-dumbbell-curl.gif",
+    "nom_fr": "Curl sur banc incliné en appui ventral",
+    "nom_en": "Prone incline dumbbell curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "prone-incline-dumbbell-curl"
+  },
+  {
+    "fichier": "single-arm-cable-preacher-curl.gif",
+    "nom_fr": "Curl unilatéral au pupitre à la poulie",
+    "nom_en": "Single arm cable preacher curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "biceps unilateral com banco scort no cross"
+  },
+  {
+    "fichier": "single-arm-neutral-grip-curl.gif",
+    "nom_fr": "Curl unilatéral prise neutre",
+    "nom_en": "Single arm neutral grip curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca unilateral pegada neutra com halteres"
+  },
+  {
+    "fichier": "incline-bench-single-arm-curl.gif",
+    "nom_fr": "Curl unilatéral sur banc incliné",
+    "nom_en": "Incline bench single arm curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca consentrada unilateral  no banco declinado"
+  },
+  {
+    "fichier": "single-arm-dumbbell-curl.gif",
+    "nom_fr": "Curl unilatéral à l'haltère",
+    "nom_en": "Single arm dumbbell curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca unilateral com halteres"
+  },
+  {
+    "fichier": "single-arm-rope-cable-curl.gif",
+    "nom_fr": "Curl unilatéral à la corde",
+    "nom_en": "Single arm rope cable curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca unilateral corda"
+  },
+  {
+    "fichier": "cable-one-arm-curl.gif",
+    "nom_fr": "Curl unilatéral à la poulie",
+    "nom_en": "Cable one arm curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "cable-one-arm-curl"
+  },
+  {
+    "fichier": "single-arm-low-cable-curl.gif",
+    "nom_fr": "Curl unilatéral à la poulie basse",
+    "nom_en": "Single arm low cable curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "biceps unilateral cross"
+  },
+  {
+    "fichier": "single-arm-high-cable-curl.gif",
+    "nom_fr": "Curl unilatéral à la poulie haute",
+    "nom_en": "Single arm high cable curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "biceps unilateral polia alta cross"
+  },
+  {
+    "fichier": "dumbbell-seated-zottman-curl.gif",
+    "nom_fr": "Curl Zottman assis",
+    "nom_en": "Dumbbell seated zottman curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "dumbbell-seated-zottman-curl"
+  },
+  {
+    "fichier": "dumbbell-one-arm-zottman-preacher-curl.webp",
+    "nom_fr": "Curl Zottman unilatéral au pupitre",
+    "nom_en": "Dumbbell one-arm Zottman preacher curl",
+    "zone": "bras",
+    "source": "existant"
+  },
+  {
+    "fichier": "barbell-curl-standing.gif",
+    "nom_fr": "Curl à la barre",
+    "nom_en": "Barbell curl standing",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca direta"
+  },
+  {
+    "fichier": "arm-blaster-barbell-curl.gif",
+    "nom_fr": "Curl à la barre avec arm blaster",
+    "nom_en": "Arm blaster barbell curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca direta apoio braquial"
+  },
+  {
+    "fichier": "ez-bar-biceps-curl.gif",
+    "nom_fr": "Curl à la barre EZ",
+    "nom_en": "EZ bar biceps curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "ez-bar-bicep-curl"
+  },
+  {
+    "fichier": "ez-bar-curl.gif",
+    "nom_fr": "Curl à la barre EZ (variante)",
+    "nom_en": "EZ bar curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca direta barra W"
+  },
+  {
+    "fichier": "seated-ez-bar-curl.gif",
+    "nom_fr": "Curl à la barre EZ assis",
+    "nom_en": "Seated EZ bar curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca direta barra W sentado banco"
+  },
+  {
+    "fichier": "wide-grip-ez-bar-curl.gif",
+    "nom_fr": "Curl à la barre EZ prise large",
+    "nom_en": "Wide grip EZ bar curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "wide-grip-ez-bar-curl"
+  },
+  {
+    "fichier": "close-grip-ez-bar-curl.gif",
+    "nom_fr": "Curl à la barre EZ prise serrée",
+    "nom_en": "Close grip EZ bar curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca direta pegada fechada barra W"
+  },
+  {
+    "fichier": "wide-grip-barbell-curl.gif",
+    "nom_fr": "Curl à la barre prise large",
+    "nom_en": "Wide grip barbell curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Roscadireta aberta"
+  },
+  {
+    "fichier": "wide-grip-barbell-curl-v2.gif",
+    "nom_fr": "Curl à la barre prise large (variante)",
+    "nom_en": "Wide grip barbell curl (variant)",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca dierta pegada aberta"
+  },
+  {
+    "fichier": "seated-close-grip-barbell-curl.gif",
+    "nom_fr": "Curl à la barre prise serrée assis",
+    "nom_en": "Seated close grip barbell curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca direta barra pegada fechada sentado no banco"
+  },
+  {
+    "fichier": "squatting-cable-curl.gif",
+    "nom_fr": "Curl à la poulie accroupi",
+    "nom_en": "Squatting cable curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca agachado"
+  },
+  {
+    "fichier": "lying-cable-curl.gif",
+    "nom_fr": "Curl à la poulie allongé sur banc",
+    "nom_en": "Lying cable curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca direta deitado no banco reto no cross"
+  },
+  {
+    "fichier": "ez-bar-cable-curl.gif",
+    "nom_fr": "Curl à la poulie barre EZ",
+    "nom_en": "EZ bar cable curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "rosca direta no cross barra W"
+  },
+  {
+    "fichier": "overhead-cable-curl.gif",
+    "nom_fr": "Curl à la poulie haute bras écartés",
+    "nom_en": "Overhead cable curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "overhead-cable-curl"
+  },
+  {
+    "fichier": "seated-triceps-dip-machine.gif",
+    "nom_fr": "Dips assis à la machine",
+    "nom_en": "Seated triceps dip machine",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "arnold_dips-maschine"
+  },
+  {
+    "fichier": "assisted-triceps-dip.gif",
+    "nom_fr": "Dips assistés",
+    "nom_en": "Assisted triceps dip",
+    "zone": "bras",
+    "source": "existant"
+  },
+  {
+    "fichier": "bench-dip-v2.gif",
+    "nom_fr": "Dips entre deux bancs",
+    "nom_en": "Bench dip (variant)",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps paralelo no banco"
+  },
+  {
+    "fichier": "weighted-tricep-dips.gif",
+    "nom_fr": "Dips lestés",
+    "nom_en": "Weighted triceps dips",
+    "zone": "bras",
+    "source": "existant"
+  },
+  {
+    "fichier": "bench-dip.gif",
+    "nom_fr": "Dips sur banc",
+    "nom_en": "Bench dip",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Mergulho banco"
+  },
+  {
+    "fichier": "bench-dip-legs-extended.gif",
+    "nom_fr": "Dips sur banc jambes tendues",
+    "nom_en": "Bench dip legs extended",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps afundo no banco"
+  },
+  {
+    "fichier": "triceps-dip.webp",
+    "nom_fr": "Dips triceps",
+    "nom_en": "Triceps dip",
+    "zone": "bras",
+    "source": "existant"
+  },
+  {
+    "fichier": "bench-triceps-dips.gif",
+    "nom_fr": "Dips triceps sur banc",
+    "nom_en": "Bench triceps dips",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "bench-tricep-dips"
+  },
+  {
+    "fichier": "triceps-dip-machine.gif",
+    "nom_fr": "Dips à la machine",
+    "nom_en": "Triceps dip machine",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps maquina 02"
+  },
+  {
+    "fichier": "barbell-close-grip-bench-press.webp",
+    "nom_fr": "Développé couché prise serrée",
+    "nom_en": "Barbell close-grip bench press",
+    "zone": "bras",
+    "source": "existant"
+  },
+  {
+    "fichier": "smith-machine-close-grip-decline-press.gif",
+    "nom_fr": "Développé décliné prise serrée à la Smith",
+    "nom_en": "Smith machine close grip decline press",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "supino declinado no smit"
+  },
+  {
+    "fichier": "dumbbell-radial-deviation.gif",
+    "nom_fr": "Déviation radiale à l'haltère",
+    "nom_en": "Dumbbell radial deviation",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "desvio radial"
+  },
+  {
+    "fichier": "dumbbell-reverse-wrist-curl-seated.gif",
+    "nom_fr": "Extension des poignets assis",
+    "nom_en": "Dumbbell reverse wrist curl seated",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca punho invertida"
+  },
+  {
+    "fichier": "dumbbell-reverse-wrist-curl.gif",
+    "nom_fr": "Extension des poignets aux haltères",
+    "nom_en": "Dumbbell reverse wrist curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Hiperextensão de punho com halteres"
+  },
+  {
+    "fichier": "reverse-wrist-curl-forearm-supported.gif",
+    "nom_fr": "Extension des poignets avant-bras en appui",
+    "nom_en": "Reverse wrist curl forearm supported",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca punho invertida apoio antebraço"
+  },
+  {
+    "fichier": "barbell-reverse-wrist-curl.gif",
+    "nom_fr": "Extension des poignets à la barre",
+    "nom_en": "Barbell reverse wrist curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Hiperextensão de punho com barra"
+  },
+  {
+    "fichier": "overhand-triceps-pushdown.gif",
+    "nom_fr": "Extension des triceps prise pronation",
+    "nom_en": "Overhand triceps pushdown",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps pulley pronado"
+  },
+  {
+    "fichier": "reverse-grip-triceps-pushdown.gif",
+    "nom_fr": "Extension des triceps prise supination",
+    "nom_en": "Reverse grip triceps pushdown",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps pulley supinado"
+  },
+  {
+    "fichier": "reverse-grip-triceps-pushdown-v2.gif",
+    "nom_fr": "Extension des triceps prise supination (variante)",
+    "nom_en": "Reverse grip triceps pushdown (variant)",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps supinado 02"
+  },
+  {
+    "fichier": "band-triceps-extension.gif",
+    "nom_fr": "Extension des triceps à l'élastique",
+    "nom_en": "Band triceps extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Extensão no elástico"
+  },
+  {
+    "fichier": "rope-triceps-pushdown.gif",
+    "nom_fr": "Extension des triceps à la corde",
+    "nom_en": "Rope triceps pushdown",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps cord"
+  },
+  {
+    "fichier": "triceps-pushdown.gif",
+    "nom_fr": "Extension des triceps à la poulie haute",
+    "nom_en": "Triceps pushdown",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps pulley"
+  },
+  {
+    "fichier": "dumbbell-skull-crusher.gif",
+    "nom_fr": "Extension triceps allongé aux haltères",
+    "nom_en": "Dumbbell skull crusher",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps testa com halteres"
+  },
+  {
+    "fichier": "dumbbell-skull-crusher-v2.gif",
+    "nom_fr": "Extension triceps allongé aux haltères (variante 2)",
+    "nom_en": "Dumbbell skull crusher (variant)",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps tresta com halteres"
+  },
+  {
+    "fichier": "lying-dumbbell-triceps-extension.gif",
+    "nom_fr": "Extension triceps allongé aux haltères (variante)",
+    "nom_en": "Lying dumbbell triceps extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps com halteres no banco reto"
+  },
+  {
+    "fichier": "single-arm-dumbbell-skull-crusher.gif",
+    "nom_fr": "Extension triceps allongé unilatérale",
+    "nom_en": "Single arm dumbbell skull crusher",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps testa unilateral"
+  },
+  {
+    "fichier": "lying-cable-triceps-extension-v2.gif",
+    "nom_fr": "Extension triceps allongé à la poulie",
+    "nom_en": "Lying cable triceps extension (variant)",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps no cross deitado no banco reto"
+  },
+  {
+    "fichier": "cable-overhead-triceps-extension.gif",
+    "nom_fr": "Extension triceps bilatérale derrière la tête à la poulie",
+    "nom_en": "Cable overhead triceps extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps françes bilateral no cross"
+  },
+  {
+    "fichier": "seated-dumbbell-overhead-extension.gif",
+    "nom_fr": "Extension triceps derrière la tête assis",
+    "nom_en": "Seated dumbbell overhead extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps frances sentado"
+  },
+  {
+    "fichier": "dumbbell-overhead-extension-standing.gif",
+    "nom_fr": "Extension triceps derrière la tête debout",
+    "nom_en": "Dumbbell overhead extension standing",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "tricep-overhead-extensions"
+  },
+  {
+    "fichier": "dumbbell-overhead-triceps-extension.gif",
+    "nom_fr": "Extension triceps derrière la tête à l'haltère",
+    "nom_en": "Dumbbell overhead triceps extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps frances"
+  },
+  {
+    "fichier": "standing-barbell-overhead-extension.gif",
+    "nom_fr": "Extension triceps derrière la tête à la barre debout",
+    "nom_en": "Standing barbell overhead extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps frances com barra"
+  },
+  {
+    "fichier": "seated-ez-bar-overhead-extension-v2.gif",
+    "nom_fr": "Extension triceps derrière la tête à la barre EZ (variante)",
+    "nom_en": "Seated EZ bar overhead extension (variant)",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps frances barra W"
+  },
+  {
+    "fichier": "seated-ez-bar-overhead-extension.gif",
+    "nom_fr": "Extension triceps derrière la tête à la barre EZ assis",
+    "nom_en": "Seated EZ bar overhead extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps frances barra w"
+  },
+  {
+    "fichier": "wall-triceps-extension.gif",
+    "nom_fr": "Extension triceps en appui au mur",
+    "nom_en": "Wall triceps extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps apoaiado na pareda"
+  },
+  {
+    "fichier": "bent-over-cable-triceps-extension.gif",
+    "nom_fr": "Extension triceps penché à la poulie",
+    "nom_en": "Bent over cable triceps extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps inclinado no cross bilateral"
+  },
+  {
+    "fichier": "dumbbell-incline-two-arm-extension.webp",
+    "nom_fr": "Extension triceps sur banc incliné",
+    "nom_en": "Dumbbell incline two-arm extension",
+    "zone": "bras",
+    "source": "existant"
+  },
+  {
+    "fichier": "seated-single-arm-overhead-extension.gif",
+    "nom_fr": "Extension triceps unilatérale derrière la tête assis",
+    "nom_en": "Seated single arm overhead extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps frances unilateral sentado"
+  },
+  {
+    "fichier": "ez-bar-triceps-pushdown.gif",
+    "nom_fr": "Extension triceps à la barre EZ",
+    "nom_en": "EZ bar triceps pushdown",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "ez-bar-tricep-pushdown"
+  },
+  {
+    "fichier": "overhead-cable-triceps-extension.gif",
+    "nom_fr": "Extension triceps à la corde derrière la tête",
+    "nom_en": "Overhead cable triceps extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "overhead-cable-tricep-extension"
+  },
+  {
+    "fichier": "triceps-extension-machine.gif",
+    "nom_fr": "Extension triceps à la machine",
+    "nom_en": "Triceps extension machine",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps no aparelho scort"
+  },
+  {
+    "fichier": "v-bar-triceps-pushdown.gif",
+    "nom_fr": "Extension triceps à la poulie barre en V",
+    "nom_en": "V bar triceps pushdown",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps no cross barra triangulo"
+  },
+  {
+    "fichier": "cable-triceps-overhead-extension.gif",
+    "nom_fr": "Extension triceps à la poulie derrière la tête",
+    "nom_en": "Cable triceps overhead extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "cable-tricep-overhead-extensions"
+  },
+  {
+    "fichier": "high-cable-overhead-extension.gif",
+    "nom_fr": "Extension triceps à la poulie haute",
+    "nom_en": "High cable overhead extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps testa polia alta"
+  },
+  {
+    "fichier": "close-grip-cable-pushdown.gif",
+    "nom_fr": "Extension triceps à la poulie prise serrée",
+    "nom_en": "Close grip cable pushdown",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps fechado"
+  },
+  {
+    "fichier": "lying-single-arm-extension.gif",
+    "nom_fr": "Extension unilatérale allongé",
+    "nom_en": "Lying single arm extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps unilateral deitado no banco"
+  },
+  {
+    "fichier": "lying-single-arm-dumbbell-extension.gif",
+    "nom_fr": "Extension unilatérale allongé sur banc",
+    "nom_en": "Lying single arm dumbbell extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps françes unilateral deitado no banco"
+  },
+  {
+    "fichier": "single-arm-cable-overhead-extension-v2.gif",
+    "nom_fr": "Extension unilatérale derrière la tête à la poulie (variante)",
+    "nom_en": "Single arm cable overhead extension (variant)",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps françes unilateral no corss"
+  },
+  {
+    "fichier": "single-arm-cable-triceps-extension.gif",
+    "nom_fr": "Extension unilatérale du coude à la poulie",
+    "nom_en": "Single arm cable triceps extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps extenção de cotovelo unilateral"
+  },
+  {
+    "fichier": "lying-single-arm-cross-body-extension.gif",
+    "nom_fr": "Extension unilatérale en travers allongé",
+    "nom_en": "Lying single arm cross body extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps unilateral 90G deitado"
+  },
+  {
+    "fichier": "single-arm-cable-pushdown.gif",
+    "nom_fr": "Extension unilatérale à la poulie",
+    "nom_en": "Single arm cable pushdown",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps extensão unilateral"
+  },
+  {
+    "fichier": "single-arm-cable-overhead-extension.gif",
+    "nom_fr": "Extension unilatérale à la poulie derrière la tête",
+    "nom_en": "Single arm cable overhead extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Extensão unilateral no cabo"
+  },
+  {
+    "fichier": "single-arm-reverse-grip-pushdown.gif",
+    "nom_fr": "Extension unilatérale à la poulie prise supination",
+    "nom_en": "Single arm reverse grip pushdown",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps unilateral pegada supinada"
+  },
+  {
+    "fichier": "kneeling-single-arm-cable-extension.gif",
+    "nom_fr": "Extension unilatérale à la poulie à genoux",
+    "nom_en": "Kneeling single arm cable extension",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps unilateral cabo ajoelhado"
+  },
+  {
+    "fichier": "dumbbell-wrist-curl-seated.gif",
+    "nom_fr": "Flexion des poignets aux haltères",
+    "nom_en": "Dumbbell wrist curl seated",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Flexão de punho com halteres"
+  },
+  {
+    "fichier": "plate-wrist-curl.gif",
+    "nom_fr": "Flexion des poignets avec disque",
+    "nom_en": "Plate wrist curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca punho com anilha"
+  },
+  {
+    "fichier": "cable-standing-wrist-curl.webp",
+    "nom_fr": "Flexion des poignets debout à la poulie",
+    "nom_en": "Cable standing wrist curl",
+    "zone": "bras",
+    "source": "existant"
+  },
+  {
+    "fichier": "behind-the-back-wrist-curl.gif",
+    "nom_fr": "Flexion des poignets derrière le dos",
+    "nom_en": "Behind the back wrist curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca punho por trás"
+  },
+  {
+    "fichier": "dumbbell-wrist-curl.gif",
+    "nom_fr": "Flexion des poignets à l'haltère",
+    "nom_en": "Dumbbell wrist curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "dumbbell-wrist-curl"
+  },
+  {
+    "fichier": "barbell-wrist-curl.gif",
+    "nom_fr": "Flexion des poignets à la barre",
+    "nom_en": "Barbell wrist curl",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Flexão de punho com barra"
+  },
+  {
+    "fichier": "barbell-wrist-curl-kneeling.gif",
+    "nom_fr": "Flexion des poignets à la barre à genoux",
+    "nom_en": "Barbell wrist curl kneeling",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Rosca punho com barra"
+  },
+  {
+    "fichier": "hand-grip.gif",
+    "nom_fr": "Hand grip",
+    "nom_en": "Hand grip",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Hand grip"
+  },
+  {
+    "fichier": "seated-dumbbell-kickback.gif",
+    "nom_fr": "Kickback assis aux haltères",
+    "nom_en": "Seated dumbbell kickback",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Kick back sentado com halteres"
+  },
+  {
+    "fichier": "dumbbell-kickback-bilateral.gif",
+    "nom_fr": "Kickback bilatéral aux haltères",
+    "nom_en": "Dumbbell kickback bilateral",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps patada blateral com halteres"
+  },
+  {
+    "fichier": "dumbbell-kickback-standing.gif",
+    "nom_fr": "Kickback debout aux haltères",
+    "nom_en": "Dumbbell kickback standing",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps pateda com alteres"
+  },
+  {
+    "fichier": "cable-neutral-grip-kickback.webp",
+    "nom_fr": "Kickback prise neutre à la poulie",
+    "nom_en": "Cable neutral-grip kickback",
+    "zone": "bras",
+    "source": "existant"
+  },
+  {
+    "fichier": "dumbbell-triceps-kickback.gif",
+    "nom_fr": "Kickback triceps aux haltères",
+    "nom_en": "Dumbbell triceps kickback",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps coice com halteres"
+  },
+  {
+    "fichier": "dumbbell-triceps-kickback-v2.gif",
+    "nom_fr": "Kickback triceps à l'haltère",
+    "nom_en": "Dumbbell triceps kickback (variant)",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "dumbbell-tricep-kickback"
+  },
+  {
+    "fichier": "cable-triceps-kickback-v2.gif",
+    "nom_fr": "Kickback triceps à la poulie",
+    "nom_en": "Cable triceps kickback (variant)",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Triceps coice no cabo"
+  },
+  {
+    "fichier": "single-arm-dumbbell-kickback.gif",
+    "nom_fr": "Kickback unilatéral à l'haltère",
+    "nom_en": "Single arm dumbbell kickback",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps patada unilateral com halteres"
+  },
+  {
+    "fichier": "single-arm-overhand-cable-kickback.gif",
+    "nom_fr": "Kickback unilatéral à la poulie prise pronation",
+    "nom_en": "Single arm overhand cable kickback",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps pegada pronada uniatres no cross"
+  },
+  {
+    "fichier": "close-grip-wall-push-up.gif",
+    "nom_fr": "Pompes au mur prise serrée",
+    "nom_en": "Close grip wall push up",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Apoio de frente pegada fechada parede"
+  },
+  {
+    "fichier": "diamond-push-up.webp",
+    "nom_fr": "Pompes diamant",
+    "nom_en": "Diamond push-up",
+    "zone": "bras",
+    "source": "existant"
+  },
+  {
+    "fichier": "close-grip-push-up.gif",
+    "nom_fr": "Pompes prise serrée",
+    "nom_en": "Close grip push up",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "flex de cotovelo fechado"
+  },
+  {
+    "fichier": "close-grip-dumbbell-push-up.gif",
+    "nom_fr": "Pompes prise serrée sur haltères",
+    "nom_en": "Close grip dumbbell push up",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "flex de cotovelo fechado com halteres"
+  },
+  {
+    "fichier": "close-grip-knee-push-up.gif",
+    "nom_fr": "Pompes prise serrée sur les genoux",
+    "nom_en": "Close grip knee push up",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "flex de cotovelo fechado livre"
+  },
+  {
+    "fichier": "sphinx-push-up.gif",
+    "nom_fr": "Pompes sphinx",
+    "nom_en": "Sphinx push up",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "sphinx-push-up"
+  },
+  {
+    "fichier": "wrist-roller.gif",
+    "nom_fr": "Rouleau à poignets",
+    "nom_en": "Wrist roller",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "Enrolar"
+  },
+  {
+    "fichier": "dumbbell-tate-press.gif",
+    "nom_fr": "Tate press aux haltères",
+    "nom_en": "Dumbbell tate press",
+    "zone": "bras",
+    "source": "drive-animacoes",
+    "nom_pt": "triceps"
+  },
+  {
+    "fichier": "38931301-Assault-Bike-Run_Cardio_360.gif",
+    "nom_fr": "Assault bike",
+    "nom_en": "Assault bike",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "11601301-Burpee_Cardio_360.gif",
+    "nom_fr": "Burpee",
+    "nom_en": "Burpee",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "101931301-Burpee-Power-Sled-Push_Plyometrics_360.gif",
+    "nom_fr": "Burpee et poussée de traîneau",
+    "nom_en": "Burpee and power sled push",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "51871301-Burpee-Long-Jump-with-Push-up-(male)_Cardio_360.gif",
+    "nom_fr": "Burpee saut en longueur avec pompe",
+    "nom_en": "Burpee long jump with push-up",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "corde-a-sauter.gif",
+    "nom_fr": "Corde à sauter",
+    "nom_en": "Jump rope",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "run.webp",
+    "nom_fr": "Course",
+    "nom_en": "Run",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "59891301-Figure-Run-(male)_Plyometrics_360.gif",
+    "nom_fr": "Course en huit",
+    "nom_en": "Figure-eight run",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "42291301-Assault-Run_Cardio_360.gif",
+    "nom_fr": "Course sur tapis Assault",
+    "nom_en": "Assault runner",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "32201301-Astride-Jumps-(male)_360.gif",
+    "nom_fr": "Jumping jacks écartés",
+    "nom_en": "Astride jumps",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "96081301-Walking-Backward-on-a-Treadmill-(male)_Cardio_360.gif",
+    "nom_fr": "Marche arrière sur tapis",
+    "nom_en": "Backward treadmill walk",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "65991301-Bear-Crawl-(low-hip)-(male)_Plyometrics_360.gif",
+    "nom_fr": "Marche de l'ours hanches basses",
+    "nom_en": "Bear crawl (low hips)",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "marche-sur-tapis-inclinée.gif",
+    "nom_fr": "Marche sur tapis incliné",
+    "nom_en": "Incline treadmill walk",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "42411301-Resistance-Band-Shuttle_Hips_360.gif",
+    "nom_fr": "Navette à l'élastique",
+    "nom_en": "Resistance band shuttle",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "59861301-Cone-Drill-(male)_Plyometrics_360.gif",
+    "nom_fr": "Parcours de plots",
+    "nom_en": "Cone drill",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "power-sled-push.gif",
+    "nom_fr": "Poussée de traîneau",
+    "nom_en": "Sled push",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "11611301-Rowing-(with-rowing-machine)_Cardio_360.gif",
+    "nom_fr": "Rameur",
+    "nom_en": "Rowing machine",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "31981301-ZigZag-Hopes_Cardio_360.gif",
+    "nom_fr": "Sauts en zigzag",
+    "nom_en": "Zigzag hops",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "21421301-Ski-Ergometer_Cardio_360.gif",
+    "nom_fr": "Ski-erg",
+    "nom_en": "Ski ergometer",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "52161301-Sprint_Cardio_360.gif",
+    "nom_fr": "Sprint",
+    "nom_en": "Sprint",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "36531301-Band-Assisted-Sprinter-Run_Cardio_360.gif",
+    "nom_fr": "Sprint freiné à l'élastique",
+    "nom_en": "Band-resisted sprint",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "37651301-Jump-Step-Up-(male)_Cardio_360.gif",
+    "nom_fr": "Step-up sauté",
+    "nom_en": "Jump step-up",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "lever-stepper.webp",
+    "nom_fr": "Stepper",
+    "nom_en": "Stepper machine",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "30371301-Butt-Kicks-(male)_Cardio_360.gif",
+    "nom_fr": "Talons-fesses",
+    "nom_en": "Butt kicks",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "butt-kicks.webp",
+    "nom_fr": "Talons-fesses",
+    "nom_en": "Butt kicks",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "59721301-Ladder-Drill-(male)_Plyometrics_360.gif",
+    "nom_fr": "Échelle de rythme",
+    "nom_en": "Agility ladder drill",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "59731301-Lateral-Ladder-Drill-(male)_Plyometrics_360.gif",
+    "nom_fr": "Échelle de rythme latérale",
+    "nom_en": "Lateral ladder drill",
+    "zone": "cardio",
+    "source": "existant"
+  },
+  {
+    "fichier": "back-extension-machine.gif",
+    "nom_fr": "Extension du tronc à la machine",
+    "nom_en": "Back extension machine",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Extensão de tronco máquina"
+  },
+  {
+    "fichier": "back-extension.gif",
+    "nom_fr": "Extension lombaire au banc",
+    "nom_en": "Back extension",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "back-extension"
+  },
+  {
+    "fichier": "roman-chair-back-extension.gif",
+    "nom_fr": "Extension lombaire au banc romain",
+    "nom_en": "Roman chair back extension",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "banco romano"
+  },
+  {
+    "fichier": "89911301-Barbell-Zercher-Back-Extension-(male)_Hips_360.gif",
+    "nom_fr": "Extension lombaire barre en Zercher",
+    "nom_en": "Barbell Zercher back extension",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "dumbbell-back-extension.gif",
+    "nom_fr": "Extension lombaire lestée",
+    "nom_en": "Dumbbell back extension",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "dumbbell-back-extension"
+  },
+  {
+    "fichier": "dumbbell-face-pull.gif",
+    "nom_fr": "Face pull aux haltères",
+    "nom_en": "Dumbbell face pull",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "dumbbell-face-pull"
+  },
+  {
+    "fichier": "seated-dumbbell-shrug.gif",
+    "nom_fr": "Haussement d'épaules assis aux haltères",
+    "nom_en": "Seated dumbbell shrug",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Encolhimento 3"
+  },
+  {
+    "fichier": "dumbbell-shrug.gif",
+    "nom_fr": "Haussement d'épaules aux haltères",
+    "nom_en": "Dumbbell shrug",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Encolhimento com halteres"
+  },
+  {
+    "fichier": "behind-the-back-barbell-shrug.gif",
+    "nom_fr": "Haussement d'épaules barre derrière le dos",
+    "nom_en": "Behind the back barbell shrug",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Encolhimento barra atrás"
+  },
+  {
+    "fichier": "incline-dumbbell-shrug.gif",
+    "nom_fr": "Haussement d'épaules sur banc incliné",
+    "nom_en": "Incline dumbbell shrug",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "encolhimento sentado no banco inlinado com halteres"
+  },
+  {
+    "fichier": "barbell-shrug.gif",
+    "nom_fr": "Haussement d'épaules à la barre",
+    "nom_en": "Barbell shrug",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Encolhimento barra"
+  },
+  {
+    "fichier": "cable-shrug-machine.gif",
+    "nom_fr": "Haussement d'épaules à la machine",
+    "nom_en": "Cable shrug machine",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Encolhimento máquina"
+  },
+  {
+    "fichier": "lever-shrug.gif",
+    "nom_fr": "Haussement d'épaules à la machine à levier",
+    "nom_en": "Lever shrug",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Encolhimento máquina"
+  },
+  {
+    "fichier": "cable-shrug.gif",
+    "nom_fr": "Haussement d'épaules à la poulie",
+    "nom_en": "Cable shrug",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "encolhimento pegada fechada barra no cross"
+  },
+  {
+    "fichier": "smith-machine-shrug.gif",
+    "nom_fr": "Haussement d'épaules à la Smith",
+    "nom_en": "Smith machine shrug",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "encolhimento no smith"
+  },
+  {
+    "fichier": "superman-back-extension.gif",
+    "nom_fr": "Hyperextension du tronc au sol",
+    "nom_en": "Superman back extension",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Hiperextensão do tronco"
+  },
+  {
+    "fichier": "113171301-Weighted-Plate-Hyperextension-(VERSION-2)_Hips_360.gif",
+    "nom_fr": "Hyperextension lestée avec disque",
+    "nom_en": "Weighted plate hyperextension",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "bench-hyperextension.gif",
+    "nom_fr": "Hyperextension sur banc sans appareil",
+    "nom_en": "Bench hyperextension",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Hiperextensões sem dispositivo (banco)"
+  },
+  {
+    "fichier": "dumbbell-jefferson-curl.gif",
+    "nom_fr": "Jefferson curl",
+    "nom_en": "Dumbbell jefferson curl",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "dumbbell-jefferson-curl"
+  },
+  {
+    "fichier": "dumbbell-rear-delt-fly.gif",
+    "nom_fr": "Oiseau aux haltères",
+    "nom_en": "Dumbbell rear delt fly",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "crucifixo inverso"
+  },
+  {
+    "fichier": "cable-rear-delt-fly.gif",
+    "nom_fr": "Oiseau aux poulies",
+    "nom_en": "Cable rear delt fly",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "cable-rear-delt-fly"
+  },
+  {
+    "fichier": "bent-over-dumbbell-reverse-fly.gif",
+    "nom_fr": "Oiseau penché aux haltères",
+    "nom_en": "Bent over dumbbell reverse fly",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Crucifixo invertido com halteres"
+  },
+  {
+    "fichier": "low-cable-bent-over-reverse-fly.gif",
+    "nom_fr": "Oiseau penché à la poulie basse",
+    "nom_en": "Low cable bent over reverse fly",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Crucifixo invertido polia baixa"
+  },
+  {
+    "fichier": "band-reverse-fly.gif",
+    "nom_fr": "Oiseau à l'élastique",
+    "nom_en": "Band reverse fly",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Crucifixo invertido elástico"
+  },
+  {
+    "fichier": "rope-straight-arm-pulldown.gif",
+    "nom_fr": "Pull-over debout à la corde",
+    "nom_en": "Rope straight arm pulldown",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Pulldown com corda"
+  },
+  {
+    "fichier": "straight-arm-pulldown.gif",
+    "nom_fr": "Pull-over debout à la poulie",
+    "nom_en": "Straight arm pulldown",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Pulldown1"
+  },
+  {
+    "fichier": "barbell-pullover.gif",
+    "nom_fr": "Pull-over à la barre",
+    "nom_en": "Barbell pullover",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Pull Over com Barra"
+  },
+  {
+    "fichier": "lying-rope-pullover.gif",
+    "nom_fr": "Pull-over à la corde allongé",
+    "nom_en": "Lying rope pullover",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Pull Over na polia com corda"
+  },
+  {
+    "fichier": "lever-seated-row.gif",
+    "nom_fr": "Rowing assis à la machine à levier",
+    "nom_en": "Lever seated row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "remada articulada"
+  },
+  {
+    "fichier": "dumbbell-incline-row.webp",
+    "nom_fr": "Rowing aux haltères sur banc incliné",
+    "nom_en": "Dumbbell incline row",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "exercice-rowing-halteres-banc-incline-supination.gif",
+    "nom_fr": "Rowing aux haltères sur banc incliné en supination",
+    "nom_en": "Incline bench dumbbell row, underhand",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "bodyweight-standing-row.webp",
+    "nom_fr": "Rowing debout au poids du corps",
+    "nom_en": "Bodyweight standing row",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "incline-cable-row.gif",
+    "nom_fr": "Rowing incliné à la poulie",
+    "nom_en": "Incline cable row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Remada inclinada"
+  },
+  {
+    "fichier": "trx-inverted-row.gif",
+    "nom_fr": "Rowing inversé au TRX",
+    "nom_en": "Trx inverted row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Remada invertida TRX"
+  },
+  {
+    "fichier": "inverted-row-between-chairs.webp",
+    "nom_fr": "Rowing inversé entre deux chaises",
+    "nom_en": "Inverted row between chairs",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "landmine-row.gif",
+    "nom_fr": "Rowing landmine",
+    "nom_en": "Landmine row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "landmine-row"
+  },
+  {
+    "fichier": "single-arm-landmine-row.gif",
+    "nom_fr": "Rowing landmine unilatéral",
+    "nom_en": "Single arm landmine row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "remada cavalinho unilateral"
+  },
+  {
+    "fichier": "single-arm-close-grip-landmine-row.gif",
+    "nom_fr": "Rowing landmine unilatéral prise serrée",
+    "nom_en": "Single arm close grip landmine row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "remada unilateral cavalindo barra puxada fechada"
+  },
+  {
+    "fichier": "kettlebell-bent-over-alternate-twist-row.webp",
+    "nom_fr": "Rowing penché alterné avec rotation au kettlebell",
+    "nom_en": "Kettlebell bent-over alternating twist row",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "bent-over-row-avec-halteres.gif",
+    "nom_fr": "Rowing penché aux haltères",
+    "nom_en": "Dumbbell bent-over row",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "barbell-bent-over-wide-grip-row.webp",
+    "nom_fr": "Rowing penché prise large à la barre",
+    "nom_en": "Barbell wide-grip bent-over row",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "smith-reverse-grip-bent-over-row.webp",
+    "nom_fr": "Rowing penché prise supination à la Smith",
+    "nom_en": "Smith machine reverse-grip bent-over row",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "band-bent-over-row.webp",
+    "nom_fr": "Rowing penché à l'élastique",
+    "nom_en": "Band bent-over row",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "bent-over-barbell-row.gif",
+    "nom_fr": "Rowing penché à la barre",
+    "nom_en": "Bent over barbell row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Remada curvada pronada"
+  },
+  {
+    "fichier": "bent-over-barbell-row-v2.gif",
+    "nom_fr": "Rowing penché à la barre (variante)",
+    "nom_en": "Bent over barbell row (variant)",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Remanda Curvada Barra"
+  },
+  {
+    "fichier": "bent-over-cable-row.gif",
+    "nom_fr": "Rowing penché à la poulie",
+    "nom_en": "Bent over cable row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Remada curvada no cabo"
+  },
+  {
+    "fichier": "smith-machine-bent-over-row.gif",
+    "nom_fr": "Rowing penché à la Smith",
+    "nom_en": "Smith machine bent over row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "remada inclinada no smith"
+  },
+  {
+    "fichier": "chest-supported-bench-row.gif",
+    "nom_fr": "Rowing poitrine en appui sur banc",
+    "nom_en": "Chest supported bench row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Remada apoio peitoral banco"
+  },
+  {
+    "fichier": "band-wide-grip-row.gif",
+    "nom_fr": "Rowing prise large à l'élastique",
+    "nom_en": "Band wide grip row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "banded-wide-grip-row"
+  },
+  {
+    "fichier": "dumbbell-bent-over-scapula-row.webp",
+    "nom_fr": "Rowing scapulaire penché aux haltères",
+    "nom_en": "Dumbbell bent-over scapular row",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "t-bar-row.gif",
+    "nom_fr": "Rowing T-bar",
+    "nom_en": "T bar row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Remada cavalinho barra"
+  },
+  {
+    "fichier": "t-bar-row-v2.gif",
+    "nom_fr": "Rowing T-bar (variante)",
+    "nom_en": "T bar row (variant)",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "t-bar-row-muscles"
+  },
+  {
+    "fichier": "chest-supported-t-bar-row.gif",
+    "nom_fr": "Rowing T-bar en appui poitrine",
+    "nom_en": "Chest supported t bar row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Remada cavalinho"
+  },
+  {
+    "fichier": "wide-grip-t-bar-row.gif",
+    "nom_fr": "Rowing T-bar prise large",
+    "nom_en": "Wide grip t bar row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "remada cavalinha pegada aberta"
+  },
+  {
+    "fichier": "landmine-t-bar-row.gif",
+    "nom_fr": "Rowing T-bar à la barre",
+    "nom_en": "Landmine t bar row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "remada cavalino com barra"
+  },
+  {
+    "fichier": "dumbbell-one-arm-bent-over-row.gif",
+    "nom_fr": "Rowing unilatéral à l'haltère",
+    "nom_en": "Dumbbell one-arm bent-over row",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "single-arm-dumbbell-row-standing.gif",
+    "nom_fr": "Rowing unilatéral à l'haltère",
+    "nom_en": "Single arm dumbbell row standing",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Remada unilateral"
+  },
+  {
+    "fichier": "single-arm-neutral-lever-row.gif",
+    "nom_fr": "Rowing unilatéral à levier prise neutre",
+    "nom_en": "Single arm neutral lever row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "remada baixa unilateral pegada neutra"
+  },
+  {
+    "fichier": "yates-row.gif",
+    "nom_fr": "Rowing Yates",
+    "nom_en": "Yates row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "yates-row"
+  },
+  {
+    "fichier": "barbell-row.gif",
+    "nom_fr": "Rowing à la barre",
+    "nom_en": "Barbell row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "remada com barra"
+  },
+  {
+    "fichier": "reverse-grip-barbell-row.gif",
+    "nom_fr": "Rowing à la barre prise supination",
+    "nom_en": "Reverse grip barbell row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Remo com barra no punho"
+  },
+  {
+    "fichier": "incline-bench-barbell-row.gif",
+    "nom_fr": "Rowing à la barre sur banc incliné",
+    "nom_en": "Incline bench barbell row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "remada aberta no banco inclinada pega supinada"
+  },
+  {
+    "fichier": "incline-bench-overhand-barbell-row.gif",
+    "nom_fr": "Rowing à la barre sur banc incliné prise pronation",
+    "nom_en": "Incline bench overhand barbell row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "remada no banco inclinado pegada pronada com barra"
+  },
+  {
+    "fichier": "lever-row-machine.gif",
+    "nom_fr": "Rowing à la machine",
+    "nom_en": "Lever row machine",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Remada máquina"
+  },
+  {
+    "fichier": "lever-overhand-row.gif",
+    "nom_fr": "Rowing à levier prise pronation",
+    "nom_en": "Lever overhand row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "remada maquina pronada"
+  },
+  {
+    "fichier": "lever-reverse-grip-row.gif",
+    "nom_fr": "Rowing à levier prise supination",
+    "nom_en": "Lever reverse grip row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "remada articulada pegada supinada"
+  },
+  {
+    "fichier": "rowing-haltere-un-bras.gif",
+    "nom_fr": "Rowing à un bras à l'haltère",
+    "nom_en": "One-arm dumbbell row",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "hanging-scapular-shrug.webp",
+    "nom_fr": "Rétraction scapulaire suspendu",
+    "nom_en": "Hanging scapular shrug",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "smith-machine-deadlift.gif",
+    "nom_fr": "Soulevé de terre à la Smith",
+    "nom_en": "Smith machine deadlift",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "levantamento terra no smith"
+  },
+  {
+    "fichier": "superman.gif",
+    "nom_fr": "Superman",
+    "nom_en": "Superman",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "superman"
+  },
+  {
+    "fichier": "superman-w.webp",
+    "nom_fr": "Superman en W",
+    "nom_en": "Superman W",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "band-seated-underhand-grip-row.webp",
+    "nom_fr": "Tirage assis prise supination à l'élastique",
+    "nom_en": "Band seated underhand row",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "cable-single-arm-high-row.webp",
+    "nom_fr": "Tirage haut unilatéral à la poulie",
+    "nom_en": "Cable single-arm high row",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "band-seated-row.webp",
+    "nom_fr": "Tirage horizontal assis à l'élastique",
+    "nom_en": "Band seated row",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "standing-cable-row.gif",
+    "nom_fr": "Tirage horizontal debout à la poulie",
+    "nom_en": "Standing cable row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "standing-cable-row"
+  },
+  {
+    "fichier": "cable-seated-lats-focused-row.webp",
+    "nom_fr": "Tirage horizontal orienté grand dorsal",
+    "nom_en": "Cable seated lat-focused row",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "cable-wide-grip-row.gif",
+    "nom_fr": "Tirage horizontal prise large",
+    "nom_en": "Cable wide grip row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "cable-wide-grip-row"
+  },
+  {
+    "fichier": "cable-low-seated-row-with-v-bar.webp",
+    "nom_fr": "Tirage horizontal prise triangle",
+    "nom_en": "Seated cable row with V-bar",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "cable-seated-row.gif",
+    "nom_fr": "Tirage horizontal à la poulie",
+    "nom_en": "Cable seated row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "cable-seated-row"
+  },
+  {
+    "fichier": "tirage-incline-poulie-haute.gif",
+    "nom_fr": "Tirage incliné à la poulie haute",
+    "nom_en": "High cable incline row",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "dumbbell-upright-row.gif",
+    "nom_fr": "Tirage menton aux haltères",
+    "nom_en": "Dumbbell upright row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Remada alta com halteres"
+  },
+  {
+    "fichier": "barbell-upright-row.gif",
+    "nom_fr": "Tirage menton à la barre",
+    "nom_en": "Barbell upright row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Remada alta"
+  },
+  {
+    "fichier": "wide-grip-barbell-upright-row.gif",
+    "nom_fr": "Tirage menton à la barre prise large",
+    "nom_en": "Wide grip barbell upright row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "remada alta pegada abeta com barra"
+  },
+  {
+    "fichier": "cable-upright-row.gif",
+    "nom_fr": "Tirage menton à la poulie",
+    "nom_en": "Cable upright row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "upright-cable-row"
+  },
+  {
+    "fichier": "behind-the-neck-pulldown-machine.gif",
+    "nom_fr": "Tirage nuque à la machine",
+    "nom_en": "Behind the neck pulldown machine",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Puxador Costas por trás Máquina"
+  },
+  {
+    "fichier": "single-arm-low-cable-row.gif",
+    "nom_fr": "Tirage unilatéral à la poulie basse",
+    "nom_en": "Single arm low cable row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "remada baixa unilateral no cross"
+  },
+  {
+    "fichier": "seated-machine-pulldown.gif",
+    "nom_fr": "Tirage vertical assis à la machine",
+    "nom_en": "Seated machine pulldown",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "pulley costa maquina"
+  },
+  {
+    "fichier": "cable-crossover-lat-pulldown.gif",
+    "nom_fr": "Tirage vertical croisé aux poulies",
+    "nom_en": "Cable crossover lat pulldown",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Puxada cruzada"
+  },
+  {
+    "fichier": "behind-the-neck-lat-pulldown.gif",
+    "nom_fr": "Tirage vertical nuque",
+    "nom_en": "Behind the neck lat pulldown",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "pulley pegada aberta atras da nuca"
+  },
+  {
+    "fichier": "tirage-vertical-poitrine.gif",
+    "nom_fr": "Tirage vertical poitrine",
+    "nom_en": "Lat pulldown to chest",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "tirage-vertical-prise-inversee.gif",
+    "nom_fr": "Tirage vertical prise inversée",
+    "nom_en": "Reverse-grip lat pulldown",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "cable-wide-grip-lat-pulldown.gif",
+    "nom_fr": "Tirage vertical prise large",
+    "nom_en": "Cable wide-grip lat pulldown",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "tirage-vertical-prise-serree.gif",
+    "nom_fr": "Tirage vertical prise serrée",
+    "nom_en": "Close-grip lat pulldown",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "v-bar-lat-pulldown.gif",
+    "nom_fr": "Tirage vertical prise triangle",
+    "nom_en": "V bar lat pulldown",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Puxada alta triangulo"
+  },
+  {
+    "fichier": "kneeling-single-arm-lat-pulldown.gif",
+    "nom_fr": "Tirage vertical unilatéral à genoux",
+    "nom_en": "Kneeling single arm lat pulldown",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Puxada unilateral 1"
+  },
+  {
+    "fichier": "cable-one-arm-lat-pulldown.webp",
+    "nom_fr": "Tirage vertical unilatéral à la poulie",
+    "nom_en": "Cable one-arm lat pulldown",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "kneeling-cable-pulldown.gif",
+    "nom_fr": "Tirage vertical à genoux à la poulie",
+    "nom_en": "Kneeling cable pulldown",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Puxada alta polia"
+  },
+  {
+    "fichier": "Tirage-vertical-élastique.gif",
+    "nom_fr": "Tirage vertical à l'élastique",
+    "nom_en": "Band lat pulldown",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "lat-pulldown-machine.gif",
+    "nom_fr": "Tirage vertical à la machine",
+    "nom_en": "Lat pulldown machine",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Puxada máquina"
+  },
+  {
+    "fichier": "lever-lat-pulldown.gif",
+    "nom_fr": "Tirage vertical à la machine à levier",
+    "nom_en": "Lever lat pulldown",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "puxada maquina"
+  },
+  {
+    "fichier": "lever-reverse-grip-vertical-row.webp",
+    "nom_fr": "Tirage vertical à levier prise supination",
+    "nom_en": "Lever reverse-grip vertical row",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "lever-reverse-grip-pulldown.gif",
+    "nom_fr": "Tirage vertical à levier prise supination",
+    "nom_en": "Lever reverse grip pulldown",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "puxada maquina pegada supinada"
+  },
+  {
+    "fichier": "kneeling-high-cable-row.gif",
+    "nom_fr": "Tirage à genoux à la poulie haute",
+    "nom_en": "Kneeling high cable row",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Remada ajoelhado"
+  },
+  {
+    "fichier": "band-assisted-pull-up.gif",
+    "nom_fr": "Traction assistée à l'élastique",
+    "nom_en": "Band assisted pull up",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "band-assisted-pull-up"
+  },
+  {
+    "fichier": "assisted-pull-up-machine-standing.gif",
+    "nom_fr": "Traction assistée à la machine debout",
+    "nom_en": "Assisted pull up machine standing",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "barra no graviton em pé"
+  },
+  {
+    "fichier": "assisted-pull-up-machine-kneeling.gif",
+    "nom_fr": "Traction assistée à la machine à genoux",
+    "nom_en": "Assisted pull up machine kneeling",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "barra no gravitan"
+  },
+  {
+    "fichier": "traction-australienne.gif",
+    "nom_fr": "Traction australienne",
+    "nom_en": "Inverted row",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "eccentric-pull-up.gif",
+    "nom_fr": "Traction excentrique",
+    "nom_en": "Eccentric pull up",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "eccentric-pull-up"
+  },
+  {
+    "fichier": "weighted-pull-up.gif",
+    "nom_fr": "Traction lestée",
+    "nom_en": "Weighted pull up",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "barra livre com peso"
+  },
+  {
+    "fichier": "behind-the-neck-pull-up.gif",
+    "nom_fr": "Traction nuque",
+    "nom_en": "Behind the neck pull up",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Barra fixa nuca"
+  },
+  {
+    "fichier": "wide-grip-pull-up.webp",
+    "nom_fr": "Traction prise large",
+    "nom_en": "Wide-grip pull-up",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "shoulder-grip-pull-up.webp",
+    "nom_fr": "Traction prise largeur d'épaules",
+    "nom_en": "Shoulder-width pull-up",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "close-grip-overhand-pull-up.gif",
+    "nom_fr": "Traction prise serrée",
+    "nom_en": "Close grip overhand pull up",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "enge_klimmzuege_obergriff"
+  },
+  {
+    "fichier": "brachialis-narrow-pull-ups.webp",
+    "nom_fr": "Traction prise serrée (brachial)",
+    "nom_en": "Narrow brachialis pull-up",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "close-grip-pull-up.gif",
+    "nom_fr": "Traction prise serrée pronation",
+    "nom_en": "Close grip pull up",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "barra livre pegada fechada pronada"
+  },
+  {
+    "fichier": "bent-arms-chin-up.webp",
+    "nom_fr": "Traction supination bras fléchis",
+    "nom_en": "Bent-arm chin-up hold",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "supinated-narrow-grip-pull-up.webp",
+    "nom_fr": "Traction supination prise serrée",
+    "nom_en": "Narrow-grip chin-up",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "assisted-close-grip-underhand-chin-up.webp",
+    "nom_fr": "Traction supination prise serrée assistée",
+    "nom_en": "Assisted close-grip chin-up",
+    "zone": "dos-trapezes",
+    "source": "existant"
+  },
+  {
+    "fichier": "cable-front-raise.gif",
+    "nom_fr": "Élévation frontale à la poulie",
+    "nom_en": "Cable front raise",
+    "zone": "dos-trapezes",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação frontal cabo"
+  },
+  {
+    "fichier": "arnold-press.gif",
+    "nom_fr": "Développé Arnold",
+    "nom_en": "Arnold press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Arnolda press"
+  },
+  {
+    "fichier": "arnold-press-female.gif",
+    "nom_fr": "Développé Arnold (femme)",
+    "nom_en": "Arnold press female",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Arnol press femino"
+  },
+  {
+    "fichier": "dumbbell-rotation-press.gif",
+    "nom_fr": "Développé avec rotation",
+    "nom_en": "Dumbbell rotation press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "desenvolvimento com rotação"
+  },
+  {
+    "fichier": "landmine-press.gif",
+    "nom_fr": "Développé landmine",
+    "nom_en": "Landmine press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "landmine-press"
+  },
+  {
+    "fichier": "military-press.gif",
+    "nom_fr": "Développé militaire",
+    "nom_en": "Military press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "military-press"
+  },
+  {
+    "fichier": "seated-floor-military-press.gif",
+    "nom_fr": "Développé militaire assis au sol",
+    "nom_en": "Seated floor military press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Military press 3"
+  },
+  {
+    "fichier": "seated-behind-the-neck-press.gif",
+    "nom_fr": "Développé nuque assis",
+    "nom_en": "Seated behind the neck press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "desenvolvimento barra sentado atras nuca"
+  },
+  {
+    "fichier": "standing-behind-the-neck-press.gif",
+    "nom_fr": "Développé nuque debout",
+    "nom_en": "Standing behind the neck press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "desenvolvimento barra atras da nuca"
+  },
+  {
+    "fichier": "smith-machine-behind-the-neck-press.gif",
+    "nom_fr": "Développé nuque à la Smith",
+    "nom_en": "Smith machine behind the neck press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "desenvolvimento no smith barra na nuca"
+  },
+  {
+    "fichier": "developpe-epaule-halteres assis.gif",
+    "nom_fr": "Développé épaules assis aux haltères",
+    "nom_en": "Seated dumbbell shoulder press",
+    "zone": "epaules",
+    "source": "existant"
+  },
+  {
+    "fichier": "developpe-epaules-assis-avec-elastique.gif",
+    "nom_fr": "Développé épaules assis à l'élastique",
+    "nom_en": "Seated band shoulder press",
+    "zone": "epaules",
+    "source": "existant"
+  },
+  {
+    "fichier": "seated-overhead-press.gif",
+    "nom_fr": "Développé épaules assis à la barre",
+    "nom_en": "Seated overhead press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "seated-overhead-press"
+  },
+  {
+    "fichier": "seated-barbell-shoulder-press.gif",
+    "nom_fr": "Développé épaules assis à la barre (Smith)",
+    "nom_en": "Seated barbell shoulder press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Desenvolvimento com Barra sentado"
+  },
+  {
+    "fichier": "lever-seated-shoulder-press.gif",
+    "nom_fr": "Développé épaules assis à la machine",
+    "nom_en": "Lever seated shoulder press",
+    "zone": "epaules",
+    "source": "existant"
+  },
+  {
+    "fichier": "smith-machine-seated-shoulder-press.gif",
+    "nom_fr": "Développé épaules assis à la Smith",
+    "nom_en": "Smith machine seated shoulder press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Desenvolvimento Sentado Smith"
+  },
+  {
+    "fichier": "dumbbell-shoulder-press.gif",
+    "nom_fr": "Développé épaules aux haltères",
+    "nom_en": "Dumbbell shoulder press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Desenvolmento com Halteres"
+  },
+  {
+    "fichier": "cable-overhead-press.gif",
+    "nom_fr": "Développé épaules aux poulies",
+    "nom_en": "Cable overhead press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "desenvolvimento cabo cross"
+  },
+  {
+    "fichier": "standing-dumbbell-shoulder-press.gif",
+    "nom_fr": "Développé épaules debout aux haltères",
+    "nom_en": "Standing dumbbell shoulder press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Desenvolvimento"
+  },
+  {
+    "fichier": "standing-dumbbell-shoulder-press-v2.gif",
+    "nom_fr": "Développé épaules debout aux haltères (variante)",
+    "nom_en": "Standing dumbbell shoulder press (variant)",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Desenvolvimento com Halteres"
+  },
+  {
+    "fichier": "barbell-standing-shoulder-pin-press.webp",
+    "nom_fr": "Développé épaules debout depuis les goupilles",
+    "nom_en": "Barbell standing pin press",
+    "zone": "epaules",
+    "source": "existant"
+  },
+  {
+    "fichier": "weighted-standing-shoulder-press.webp",
+    "nom_fr": "Développé épaules debout lesté",
+    "nom_en": "Weighted standing shoulder press",
+    "zone": "epaules",
+    "source": "existant"
+  },
+  {
+    "fichier": "standing-barbell-shoulder-press.gif",
+    "nom_fr": "Développé épaules debout à la barre",
+    "nom_en": "Standing barbell shoulder press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Desenvolvimento com Barra"
+  },
+  {
+    "fichier": "smith-machine-standing-shoulder-press.gif",
+    "nom_fr": "Développé épaules debout à la Smith",
+    "nom_en": "Smith machine standing shoulder press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Desenvolvimento no smith"
+  },
+  {
+    "fichier": "single-arm-dumbbell-press.gif",
+    "nom_fr": "Développé épaules unilatéral",
+    "nom_en": "Single arm dumbbell press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "desenvolvimento unilateral"
+  },
+  {
+    "fichier": "developpe-epaules-avec-elastique.gif",
+    "nom_fr": "Développé épaules à l'élastique",
+    "nom_en": "Band shoulder press",
+    "zone": "epaules",
+    "source": "existant"
+  },
+  {
+    "fichier": "cable-shoulder-press.gif",
+    "nom_fr": "Développé épaules à la poulie",
+    "nom_en": "Cable shoulder press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Desenvolvimento no cabo"
+  },
+  {
+    "fichier": "smith-machine-shoulder-press.gif",
+    "nom_fr": "Développé épaules à la Smith",
+    "nom_en": "Smith machine shoulder press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Desenvolvimento Smith"
+  },
+  {
+    "fichier": "Face-Pull.gif",
+    "nom_fr": "Face pull",
+    "nom_en": "Face pull",
+    "zone": "epaules",
+    "source": "existant"
+  },
+  {
+    "fichier": "resistance-band-seated-face-pull.webp",
+    "nom_fr": "Face pull assis à l'élastique",
+    "nom_en": "Band seated face pull",
+    "zone": "epaules",
+    "source": "existant"
+  },
+  {
+    "fichier": "bottle-weighted-halo.webp",
+    "nom_fr": "Halo lesté",
+    "nom_en": "Weighted halo",
+    "zone": "epaules",
+    "source": "existant"
+  },
+  {
+    "fichier": "barbell-push-jerk.gif",
+    "nom_fr": "Jeté poussé à la barre",
+    "nom_en": "Barbell push jerk",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "barbell-push-jerk-muscles"
+  },
+  {
+    "fichier": "lying-cable-reverse-fly.gif",
+    "nom_fr": "Oiseau allongé aux poulies",
+    "nom_en": "Lying cable reverse fly",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "crucifixo inverso no cross no banco reto"
+  },
+  {
+    "fichier": "seated-dumbbell-rear-delt-fly.gif",
+    "nom_fr": "Oiseau assis aux haltères",
+    "nom_en": "Seated dumbbell rear delt fly",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Crucifixo invertido com halteres 1"
+  },
+  {
+    "fichier": "seated-bent-over-lateral-raise.gif",
+    "nom_fr": "Oiseau assis penché",
+    "nom_en": "Seated bent over lateral raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "elevação lateral inclinado sentado"
+  },
+  {
+    "fichier": "lever-seated-reverse-fly.webp",
+    "nom_fr": "Oiseau assis à la machine",
+    "nom_en": "Lever seated reverse fly",
+    "zone": "epaules",
+    "source": "existant"
+  },
+  {
+    "fichier": "cable-reverse-fly.gif",
+    "nom_fr": "Oiseau aux poulies hautes",
+    "nom_en": "Cable reverse fly",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Crucifixo I_nvertido Polia Alta"
+  },
+  {
+    "fichier": "dumbbell-incline-rear-lateral-raise.webp",
+    "nom_fr": "Oiseau sur banc incliné",
+    "nom_en": "Dumbbell incline rear lateral raise",
+    "zone": "epaules",
+    "source": "existant"
+  },
+  {
+    "fichier": "scapula-push-up.webp",
+    "nom_fr": "Pompes scapulaires",
+    "nom_en": "Scapular push-up",
+    "zone": "epaules",
+    "source": "existant"
+  },
+  {
+    "fichier": "push-press.gif",
+    "nom_fr": "Push press",
+    "nom_en": "Push press",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "push-press"
+  },
+  {
+    "fichier": "dumbbell-seated-external-shoulder-rotation.webp",
+    "nom_fr": "Rotation externe d'épaule assis à l'haltère",
+    "nom_en": "Dumbbell seated external shoulder rotation",
+    "zone": "epaules",
+    "source": "existant"
+  },
+  {
+    "fichier": "cable-external-rotation.gif",
+    "nom_fr": "Rotation externe à la poulie",
+    "nom_en": "Cable external rotation",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Rotação externa"
+  },
+  {
+    "fichier": "cable-internal-rotation.gif",
+    "nom_fr": "Rotation interne à la poulie",
+    "nom_en": "Cable internal rotation",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Rotação interna"
+  },
+  {
+    "fichier": "resistance-band-rear-delt-row.webp",
+    "nom_fr": "Tirage deltoïde postérieur à l'élastique",
+    "nom_en": "Band rear delt row",
+    "zone": "epaules",
+    "source": "existant"
+  },
+  {
+    "fichier": "dumbbell-upright-row-v2.gif",
+    "nom_fr": "Tirage menton aux haltères (variante)",
+    "nom_en": "Dumbbell upright row (variant)",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Remanda Alta com Barra"
+  },
+  {
+    "fichier": "dumbbell-upright-row-bilateral.gif",
+    "nom_fr": "Tirage menton bilatéral aux haltères",
+    "nom_en": "Dumbbell upright row bilateral",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "remada alta com halteres bilateral"
+  },
+  {
+    "fichier": "ez-bar-upright-row.gif",
+    "nom_fr": "Tirage menton à la barre EZ",
+    "nom_en": "EZ bar upright row",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "remada alta com barra W"
+  },
+  {
+    "fichier": "single-arm-elbow-raise.gif",
+    "nom_fr": "Élévation du coude unilatérale",
+    "nom_en": "Single arm elbow raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "elevação do cotovelo unilateral"
+  },
+  {
+    "fichier": "seated-dumbbell-front-raise.gif",
+    "nom_fr": "Élévation frontale assis",
+    "nom_en": "Seated dumbbell front raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação frontal sentado"
+  },
+  {
+    "fichier": "dumbbell-front-raise.gif",
+    "nom_fr": "Élévation frontale aux haltères",
+    "nom_en": "Dumbbell front raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação frontal com halteres"
+  },
+  {
+    "fichier": "cable-front-raise-crossover.gif",
+    "nom_fr": "Élévation frontale aux poulies croisées",
+    "nom_en": "Cable front raise crossover",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação Frontal Crossover"
+  },
+  {
+    "fichier": "dumbbell-front-raise-hands-together.gif",
+    "nom_fr": "Élévation frontale mains jointes",
+    "nom_en": "Dumbbell front raise hands together",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "elevação frontal com halteres"
+  },
+  {
+    "fichier": "incline-bench-front-raise.gif",
+    "nom_fr": "Élévation frontale sur banc incliné",
+    "nom_en": "Incline bench front raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação frontal Inclinado"
+  },
+  {
+    "fichier": "single-arm-front-raise.gif",
+    "nom_fr": "Élévation frontale unilatérale",
+    "nom_en": "Single arm front raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação frontal unilateral 3"
+  },
+  {
+    "fichier": "band-front-raise.gif",
+    "nom_fr": "Élévation frontale à l'élastique",
+    "nom_en": "Band front raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Desenvolmento Frontal com Elastico"
+  },
+  {
+    "fichier": "barbell-front-raise.gif",
+    "nom_fr": "Élévation frontale à la barre",
+    "nom_en": "Barbell front raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação frontal com barra"
+  },
+  {
+    "fichier": "front-lateral-rear-raise-combo.gif",
+    "nom_fr": "Élévation frontale, latérale et oiseau enchaînés",
+    "nom_en": "Front lateral rear raise combo",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Frontal, lateral, invertido"
+  },
+  {
+    "fichier": "incline-bench-side-lateral-raise.gif",
+    "nom_fr": "Élévation latérale allongé sur banc incliné",
+    "nom_en": "Incline bench side lateral raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação lateral inclinado apoio banco"
+  },
+  {
+    "fichier": "seated-lateral-raise.gif",
+    "nom_fr": "Élévation latérale assis",
+    "nom_en": "Seated lateral raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação lateral 4"
+  },
+  {
+    "fichier": "seated-dumbbell-lateral-raise.gif",
+    "nom_fr": "Élévation latérale assis sur banc",
+    "nom_en": "Seated dumbbell lateral raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "elevação lateral sentado no banco"
+  },
+  {
+    "fichier": "dumbbell-lateral-raise.gif",
+    "nom_fr": "Élévation latérale aux haltères",
+    "nom_en": "Dumbbell lateral raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "elevação letaral com haltrers"
+  },
+  {
+    "fichier": "dumbbell-lateral-raise-v2.gif",
+    "nom_fr": "Élévation latérale aux haltères (variante)",
+    "nom_en": "Dumbbell lateral raise (variant)",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação lateral 01"
+  },
+  {
+    "fichier": "cable-crossover-lateral-raise.gif",
+    "nom_fr": "Élévation latérale aux poulies croisées",
+    "nom_en": "Cable crossover lateral raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "elevação leteral cruzada no cross"
+  },
+  {
+    "fichier": "chest-supported-lateral-raise.gif",
+    "nom_fr": "Élévation latérale buste en appui",
+    "nom_en": "Chest supported lateral raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação lateral tronco apoiado"
+  },
+  {
+    "fichier": "leaning-lateral-raise.gif",
+    "nom_fr": "Élévation latérale en inclinaison",
+    "nom_en": "Leaning lateral raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação lateral com inclinação"
+  },
+  {
+    "fichier": "leaning-cable-lateral-raise.gif",
+    "nom_fr": "Élévation latérale inclinée à la poulie",
+    "nom_en": "Leaning cable lateral raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação lateral inclinado no cabo 2"
+  },
+  {
+    "fichier": "reverse-neutral-grip-lateral-raise.gif",
+    "nom_fr": "Élévation latérale prise neutre inversée",
+    "nom_en": "Reverse neutral grip lateral raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "elevação lateral pegda neutra inversa"
+  },
+  {
+    "fichier": "lateral-to-front-raise.gif",
+    "nom_fr": "Élévation latérale puis descente frontale",
+    "nom_en": "Lateral to front raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação lateral + descida frontal"
+  },
+  {
+    "fichier": "single-arm-lateral-raise.gif",
+    "nom_fr": "Élévation latérale unilatérale",
+    "nom_en": "Single arm lateral raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "elevação unilateral"
+  },
+  {
+    "fichier": "single-arm-cable-lateral-raise.gif",
+    "nom_fr": "Élévation latérale unilatérale à la poulie",
+    "nom_en": "Single arm cable lateral raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "elevação unilateral no cross"
+  },
+  {
+    "fichier": "lateral-raise-machine.gif",
+    "nom_fr": "Élévation latérale à la machine",
+    "nom_en": "Lateral raise machine",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "lateral-raise-machine"
+  },
+  {
+    "fichier": "lever-shoulder-abduction-machine.gif",
+    "nom_fr": "Élévation latérale à la machine à levier",
+    "nom_en": "Lever shoulder abduction machine",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Abdução máquina"
+  },
+  {
+    "fichier": "cable-lateral-raise.gif",
+    "nom_fr": "Élévation latérale à la poulie",
+    "nom_en": "Cable lateral raise",
+    "zone": "epaules",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação lateral no cabo"
+  },
+  {
+    "fichier": "15231301-Barbell-Hang-Snatch-Below-the-Knees_Weightlifts-FIX_360.gif",
+    "nom_fr": "Arraché suspendu sous les genoux",
+    "nom_en": "Barbell hang snatch below the knees",
+    "zone": "halterophilie",
+    "source": "existant"
+  },
+  {
+    "fichier": "27301301-StrongMan-Tire-Flip_Weightlifting_360.gif",
+    "nom_fr": "Retournement de pneu",
+    "nom_en": "Strongman tire flip",
+    "zone": "halterophilie",
+    "source": "existant"
+  },
+  {
+    "fichier": "27281301-StrongMan-Front-Chest-Squat_Weightlifting_360.gif",
+    "nom_fr": "Squat strongman charge contre la poitrine",
+    "nom_en": "Strongman front chest squat",
+    "zone": "halterophilie",
+    "source": "existant"
+  },
+  {
+    "fichier": "15171301-Barbell-Clean-Pull_Weightlifts_360.gif",
+    "nom_fr": "Tirage d'épaulé à la barre",
+    "nom_en": "Barbell clean pull",
+    "zone": "halterophilie",
+    "source": "existant"
+  },
+  {
+    "fichier": "52871301-Barbell-Full-Clean_Weightlifting_360.gif",
+    "nom_fr": "Épaulé complet",
+    "nom_en": "Barbell full clean",
+    "zone": "halterophilie",
+    "source": "existant"
+  },
+  {
+    "fichier": "57041301-Barbell-Hang-Power-Clean_Weightlifting_360.gif",
+    "nom_fr": "Épaulé en force suspendu",
+    "nom_en": "Barbell hang power clean",
+    "zone": "halterophilie",
+    "source": "existant"
+  },
+  {
+    "fichier": "15211301-Barbell-Hang-Clean-Below-the-Knees_Weightlifts-FIX_360.gif",
+    "nom_fr": "Épaulé suspendu sous les genoux",
+    "nom_en": "Barbell hang clean below the knees",
+    "zone": "halterophilie",
+    "source": "existant"
+  },
+  {
+    "fichier": "kettlebell-single-arm-clean.webp",
+    "nom_fr": "Épaulé unilatéral au kettlebell",
+    "nom_en": "Kettlebell single-arm clean",
+    "zone": "halterophilie",
+    "source": "existant"
+  },
+  {
+    "fichier": "28141301-One-Arm-Twisted-Clean-and-Press_Hips-FIX_360.gif",
+    "nom_fr": "Épaulé-développé unilatéral en rotation",
+    "nom_en": "One-arm twisted clean and press",
+    "zone": "halterophilie",
+    "source": "existant"
+  },
+  {
+    "fichier": "51221301-Barbell-Clean-and-Jerk_Weightlifting_360.gif",
+    "nom_fr": "Épaulé-jeté",
+    "nom_en": "Barbell clean and jerk",
+    "zone": "halterophilie",
+    "source": "existant"
+  },
+  {
+    "fichier": "standing-hip-abduction.gif",
+    "nom_fr": "Abduction de hanche debout",
+    "nom_en": "Standing hip abduction",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Abduçao de quadril em pé"
+  },
+  {
+    "fichier": "resistance-band-standing-hip-abduction.webp",
+    "nom_fr": "Abduction de hanche debout à l'élastique",
+    "nom_en": "Band standing hip abduction",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "standing-hip-abduction-machine.gif",
+    "nom_fr": "Abduction de hanche debout à la machine",
+    "nom_en": "Standing hip abduction machine",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Abdutora em pé 01"
+  },
+  {
+    "fichier": "band-hip-abduction.webp",
+    "nom_fr": "Abduction de hanche à l'élastique",
+    "nom_en": "Band hip abduction",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "cable-hip-abduction.gif",
+    "nom_fr": "Abduction de hanche à la poulie",
+    "nom_en": "Cable hip abduction",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Abdução no cabo"
+  },
+  {
+    "fichier": "hip-abduction-machine-standing.gif",
+    "nom_fr": "Abduction à la machine debout",
+    "nom_en": "Hip abduction machine standing",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Abdução máquina 02"
+  },
+  {
+    "fichier": "side-lying-hip-adduction.gif",
+    "nom_fr": "Adduction de hanche allongé sur le côté",
+    "nom_en": "Side lying hip adduction",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Adução deitada unilateral"
+  },
+  {
+    "fichier": "standing-hip-adduction-machine.gif",
+    "nom_fr": "Adduction de hanche debout à la machine",
+    "nom_en": "Standing hip adduction machine",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "máquina adutora"
+  },
+  {
+    "fichier": "cable-standing-hip-adduction.gif",
+    "nom_fr": "Adduction de hanche debout à la poulie",
+    "nom_en": "Cable standing hip adduction",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "adutora na tração do cabo cross"
+  },
+  {
+    "fichier": "cable-hip-adduction.gif",
+    "nom_fr": "Adduction de hanche à la poulie",
+    "nom_en": "Cable hip adduction",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Adução na polia"
+  },
+  {
+    "fichier": "boxsquat.gif",
+    "nom_fr": "Box squat",
+    "nom_en": "Box squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "49621301-Barbell-Box-Squat_Hips_360.gif",
+    "nom_fr": "Box squat à la barre",
+    "nom_en": "Barbell box squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "donkey-calf-raise.gif",
+    "nom_fr": "Donkey calf raise",
+    "nom_en": "Donkey calf raise",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "donkey-calf-raise"
+  },
+  {
+    "fichier": "quadruped-donkey-kick.gif",
+    "nom_fr": "Donkey kick à quatre pattes",
+    "nom_en": "Quadruped donkey kick",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Extensão 6 apoios"
+  },
+  {
+    "fichier": "standing-hip-extension.gif",
+    "nom_fr": "Extension de hanche debout",
+    "nom_en": "Standing hip extension",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Extensão de Quadril em pé"
+  },
+  {
+    "fichier": "standing-bent-knee-hip-extension.gif",
+    "nom_fr": "Extension de hanche debout genou fléchi",
+    "nom_en": "Standing bent knee hip extension",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Extensão de quadril em pé com joelhos flexionados"
+  },
+  {
+    "fichier": "40341301-Band-Standing-Hip-Extension-(male)_Hips_360.gif",
+    "nom_fr": "Extension de hanche debout à l'élastique",
+    "nom_en": "Band standing hip extension",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "cable-standing-hip-extension.webp",
+    "nom_fr": "Extension de hanche debout à la poulie",
+    "nom_en": "Cable standing hip extension",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "band-kneeling-hip-extension.gif",
+    "nom_fr": "Extension de hanche à l'élastique",
+    "nom_en": "Band kneeling hip extension",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Extensão de quadril elastico"
+  },
+  {
+    "fichier": "assisted-machine-hip-extension.gif",
+    "nom_fr": "Extension de hanche à la machine assistée",
+    "nom_en": "Assisted machine hip extension",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Extensão de quadril graviton"
+  },
+  {
+    "fichier": "quadruped-hip-extension.gif",
+    "nom_fr": "Extension de hanche à quatre pattes",
+    "nom_en": "Quadruped hip extension",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Extensão de quadril 01"
+  },
+  {
+    "fichier": "band-seated-leg-extension.webp",
+    "nom_fr": "Extension de jambe assis à l'élastique",
+    "nom_en": "Band seated leg extension",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "seated-calf-raise.gif",
+    "nom_fr": "Extension des mollets assis",
+    "nom_en": "Seated calf raise",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "seated-calf-raise"
+  },
+  {
+    "fichier": "seated-dumbbell-calf-raise.gif",
+    "nom_fr": "Extension des mollets assis à l'haltère",
+    "nom_en": "Seated dumbbell calf raise",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "seated-calf-raise-dumbbell"
+  },
+  {
+    "fichier": "seated-calf-raise-machine.gif",
+    "nom_fr": "Extension des mollets assis à la machine",
+    "nom_en": "Seated calf raise machine",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Gemeos sentado"
+  },
+  {
+    "fichier": "bodyweight-calf-raise-step.gif",
+    "nom_fr": "Extension des mollets au poids du corps sur marche",
+    "nom_en": "Bodyweight calf raise step",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Flexão Plantar com peso corporal"
+  },
+  {
+    "fichier": "dumbbell-calf-raise.gif",
+    "nom_fr": "Extension des mollets aux haltères",
+    "nom_en": "Dumbbell calf raise",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "dumbbell-calf-raise"
+  },
+  {
+    "fichier": "standing-calf-raise.gif",
+    "nom_fr": "Extension des mollets debout",
+    "nom_en": "Standing calf raise",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "standing-calf-raise"
+  },
+  {
+    "fichier": "standing-calf-raise-v2.gif",
+    "nom_fr": "Extension des mollets debout (variante)",
+    "nom_en": "Standing calf raise (variant)",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "standing-calf-raise"
+  },
+  {
+    "fichier": "single-leg-calf-raise-standing.gif",
+    "nom_fr": "Extension des mollets debout unilatérale",
+    "nom_en": "Single leg calf raise standing",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Panturrilha em pé unilateral"
+  },
+  {
+    "fichier": "standing-calf-raise-machine.gif",
+    "nom_fr": "Extension des mollets debout à la machine",
+    "nom_en": "Standing calf raise machine",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Panturrilha em pé máquina"
+  },
+  {
+    "fichier": "cable-standing-calf-raise.gif",
+    "nom_fr": "Extension des mollets debout à la poulie",
+    "nom_en": "Cable standing calf raise",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "cable-standing-calf-raise"
+  },
+  {
+    "fichier": "dumbbell-squat-hold-calf-raise.webp",
+    "nom_fr": "Extension des mollets en position de squat",
+    "nom_en": "Dumbbell squat-hold calf raise",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "negative-calf-raise.gif",
+    "nom_fr": "Extension des mollets excentrique",
+    "nom_en": "Negative calf raise",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "negative-calf-raise"
+  },
+  {
+    "fichier": "bodyweight-standing-pulse-calf-raise.webp",
+    "nom_fr": "Extension des mollets pulsée au poids du corps",
+    "nom_en": "Bodyweight pulse calf raise",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "single-leg-calf-raise.gif",
+    "nom_fr": "Extension des mollets unilatérale",
+    "nom_en": "Single leg calf raise",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "single-leg-calf-raise"
+  },
+  {
+    "fichier": "hack-machine-calf-raise.gif",
+    "nom_fr": "Extension des mollets à la machine hack",
+    "nom_en": "Hack machine calf raise",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Panturrilha maquina 02"
+  },
+  {
+    "fichier": "sled-calf-press-on-leg-press.webp",
+    "nom_fr": "Extension des mollets à la presse",
+    "nom_en": "Leg press calf raise",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "horizontal-leg-press-calf-raise.gif",
+    "nom_fr": "Extension des mollets à la presse horizontale",
+    "nom_en": "Horizontal leg press calf raise",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Panturrilha leg press horizontal"
+  },
+  {
+    "fichier": "sled-forward-angled-calf-raise.webp",
+    "nom_fr": "Extension des mollets à la presse inclinée",
+    "nom_en": "Angled sled calf raise",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "smith-machine-calf-raise.gif",
+    "nom_fr": "Extension des mollets à la Smith",
+    "nom_en": "Smith machine calf raise",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "smith-machine-calf-raise"
+  },
+  {
+    "fichier": "reverse-lunge.gif",
+    "nom_fr": "Fente arrière",
+    "nom_en": "Reverse lunge",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Recuo"
+  },
+  {
+    "fichier": "35751301-Kettlebell-Backward-Lunge_Thighs_360.gif",
+    "nom_fr": "Fente arrière au kettlebell",
+    "nom_en": "Kettlebell backward lunge",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "35751301-Kettlebell-Backward-Lunge_Thighs_720.gif",
+    "nom_fr": "Fente arrière au kettlebell (720 px)",
+    "nom_en": "Kettlebell backward lunge (720 px)",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "dumbbell-reverse-lunge.gif",
+    "nom_fr": "Fente arrière aux haltères",
+    "nom_en": "Dumbbell reverse lunge",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Retrocesso com halteres"
+  },
+  {
+    "fichier": "barbell-reverse-lunge.gif",
+    "nom_fr": "Fente arrière à la barre",
+    "nom_en": "Barbell reverse lunge",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Retrocesso com Barra"
+  },
+  {
+    "fichier": "bodyweight-lunge.gif",
+    "nom_fr": "Fente au poids du corps",
+    "nom_en": "Bodyweight lunge",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "afundo livre"
+  },
+  {
+    "fichier": "dumbbell-lunge-v2.gif",
+    "nom_fr": "Fente aux haltères (variante)",
+    "nom_en": "Dumbbell lunge (variant)",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "passada com halteres"
+  },
+  {
+    "fichier": "35741301-Kettlebell-Forward-Lunge_Thighs_360.gif",
+    "nom_fr": "Fente avant au kettlebell",
+    "nom_en": "Kettlebell forward lunge",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "dumbbell-lunge.gif",
+    "nom_fr": "Fente avant aux haltères",
+    "nom_en": "Dumbbell lunge",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Avanço"
+  },
+  {
+    "fichier": "dumbbell-forward-lunge.gif",
+    "nom_fr": "Fente avant aux haltères",
+    "nom_en": "Dumbbell forward lunge",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "passada a frente com halteres"
+  },
+  {
+    "fichier": "barbell-forward-lunge.gif",
+    "nom_fr": "Fente avant à la barre",
+    "nom_en": "Barbell forward lunge",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "passada a frente com barra"
+  },
+  {
+    "fichier": "curtsy-lunge.gif",
+    "nom_fr": "Fente croisée arrière",
+    "nom_en": "Curtsy lunge",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Afundo cruzando perna de tras"
+  },
+  {
+    "fichier": "barbell-lateral-lunge.gif",
+    "nom_fr": "Fente latérale à la barre",
+    "nom_en": "Barbell lateral lunge",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "seitlicher_ausfallschritt_mit_langhantel"
+  },
+  {
+    "fichier": "barbell-lunge.gif",
+    "nom_fr": "Fente à la barre",
+    "nom_en": "Barbell lunge",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Afundo com barra"
+  },
+  {
+    "fichier": "smith-machine-lunge.gif",
+    "nom_fr": "Fente à la Smith",
+    "nom_en": "Smith machine lunge",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Afundo no smith"
+  },
+  {
+    "fichier": "dumbbell-walking-lunge.gif",
+    "nom_fr": "Fentes marchées aux haltères",
+    "nom_en": "Dumbbell walking lunge",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Passadas com halteres"
+  },
+  {
+    "fichier": "44091301-Barbell-Front-Rack-Walking-Lunge_Thighs_360.gif",
+    "nom_fr": "Fentes marchées barre en front rack",
+    "nom_en": "Barbell front-rack walking lunge",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "frog-pump.gif",
+    "nom_fr": "Frog pump",
+    "nom_en": "Frog pump",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "frog-pump"
+  },
+  {
+    "fichier": "good-morning.gif",
+    "nom_fr": "Good morning",
+    "nom_en": "Good morning",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Good morning"
+  },
+  {
+    "fichier": "dumbbell-good-morning.gif",
+    "nom_fr": "Good morning à l'haltère",
+    "nom_en": "Dumbbell good morning",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "dumbbell-good-morning"
+  },
+  {
+    "fichier": "barbell-good-morning.gif",
+    "nom_fr": "Good morning à la barre",
+    "nom_en": "Barbell good morning",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "barbell-good-morning"
+  },
+  {
+    "fichier": "hack-squat.gif",
+    "nom_fr": "Hack squat",
+    "nom_en": "Hack squat",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Agachamento hack"
+  },
+  {
+    "fichier": "sled-wide-hack-squat.webp",
+    "nom_fr": "Hack squat pieds écartés",
+    "nom_en": "Wide-stance sled hack squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "lever-hack-squat.webp",
+    "nom_fr": "Hack squat à levier",
+    "nom_en": "Lever hack squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "bodyweight-hip-thrust.gif",
+    "nom_fr": "Hip thrust au poids du corps",
+    "nom_en": "Bodyweight hip thrust",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "bodyweight-hip-thrust"
+  },
+  {
+    "fichier": "hip-thrust-bench.gif",
+    "nom_fr": "Hip thrust sur banc",
+    "nom_en": "Hip thrust bench",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Hip thrust 02"
+  },
+  {
+    "fichier": "heel-elevated-hip-thrust.gif",
+    "nom_fr": "Hip thrust talons surélevés",
+    "nom_en": "Heel elevated hip thrust",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "heel-elevated-hip-thrust"
+  },
+  {
+    "fichier": "single-leg-hip-thrust.gif",
+    "nom_fr": "Hip thrust unilatéral",
+    "nom_en": "Single leg hip thrust",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "single-leg-hip-thrust-muscles"
+  },
+  {
+    "fichier": "weighted-one-leg-hip-thrust.webp",
+    "nom_fr": "Hip thrust unilatéral lesté",
+    "nom_en": "Weighted single-leg hip thrust",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "47551301-Dumbbell-Single-Leg-Hip-Thrust_Hips_360.gif",
+    "nom_fr": "Hip thrust unilatéral à l'haltère",
+    "nom_en": "Dumbbell single-leg hip thrust",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "barbell-hip-thrust.webp",
+    "nom_fr": "Hip thrust à la barre",
+    "nom_en": "Barbell hip thrust",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "smith-machine-hip-thrust.gif",
+    "nom_fr": "Hip thrust à la Smith",
+    "nom_en": "Smith machine hip thrust",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Hip thrust smith"
+  },
+  {
+    "fichier": "reverse-hyperextension.gif",
+    "nom_fr": "Hyperextension inversée",
+    "nom_en": "Reverse hyperextension",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "reverse-hyperextension"
+  },
+  {
+    "fichier": "roman-chair-reverse-hyperextension.gif",
+    "nom_fr": "Hyperextension inversée au banc romain",
+    "nom_en": "Roman chair reverse hyperextension",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Extensão de quadril banco romano 02"
+  },
+  {
+    "fichier": "bent-knee-back-to-side-kick.webp",
+    "nom_fr": "Kick arrière vers côté genou fléchi",
+    "nom_en": "Bent-knee back-to-side kick",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "bench-quadruped-kickback.gif",
+    "nom_fr": "Kickback fessier en appui sur banc",
+    "nom_en": "Bench quadruped kickback",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Gluteos no banco"
+  },
+  {
+    "fichier": "standing-glute-kickback-machine.gif",
+    "nom_fr": "Kickback fessier à la machine debout",
+    "nom_en": "Standing glute kickback machine",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Gluteo máquina"
+  },
+  {
+    "fichier": "kneeling-glute-kickback-machine.gif",
+    "nom_fr": "Kickback fessier à la machine à quatre pattes",
+    "nom_en": "Kneeling glute kickback machine",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Gluteo 4 apoios máquina"
+  },
+  {
+    "fichier": "cable-glute-kickback.gif",
+    "nom_fr": "Kickback fessier à la poulie",
+    "nom_en": "Cable glute kickback",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Extensão glúteo no cabo"
+  },
+  {
+    "fichier": "cable-kickback.gif",
+    "nom_fr": "Kickback à la poulie",
+    "nom_en": "Cable kickback",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "cable-kickback"
+  },
+  {
+    "fichier": "lying-leg-curl.gif",
+    "nom_fr": "Leg curl allongé",
+    "nom_en": "Lying leg curl",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Mesa flexora"
+  },
+  {
+    "fichier": "lying-leg-curl-v2.gif",
+    "nom_fr": "Leg curl allongé (variante)",
+    "nom_en": "Lying leg curl (variant)",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "mesa flex"
+  },
+  {
+    "fichier": "single-leg-lying-leg-curl.gif",
+    "nom_fr": "Leg curl allongé unilatéral",
+    "nom_en": "Single leg lying leg curl",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Mesa flexora unilateral"
+  },
+  {
+    "fichier": "lying-leg-curl-machine.gif",
+    "nom_fr": "Leg curl allongé à la machine",
+    "nom_en": "Lying leg curl machine",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Flexora máquina"
+  },
+  {
+    "fichier": "cable-lying-leg-curl.gif",
+    "nom_fr": "Leg curl allongé à la poulie",
+    "nom_en": "Cable lying leg curl",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Flexora no cabo"
+  },
+  {
+    "fichier": "seated-leg-curl.gif",
+    "nom_fr": "Leg curl assis",
+    "nom_en": "Seated leg curl",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Cadeira flexora"
+  },
+  {
+    "fichier": "seated-leg-curl-v2.gif",
+    "nom_fr": "Leg curl assis (variante)",
+    "nom_en": "Seated leg curl (variant)",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "cadeira flex"
+  },
+  {
+    "fichier": "standing-single-leg-curl-machine.gif",
+    "nom_fr": "Leg curl debout unilatéral",
+    "nom_en": "Standing single leg curl machine",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Flexora em pé unilateral"
+  },
+  {
+    "fichier": "cable-standing-leg-curl.gif",
+    "nom_fr": "Leg curl debout à la poulie",
+    "nom_en": "Cable standing leg curl",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "flex de joelho  em pé no cabo cross"
+  },
+  {
+    "fichier": "leg-extension.gif",
+    "nom_fr": "Leg extension",
+    "nom_en": "Leg extension",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "cadeira extensora"
+  },
+  {
+    "fichier": "single-leg-extension.gif",
+    "nom_fr": "Leg extension unilatéral",
+    "nom_en": "Single leg extension",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Cadeira extensora unilateral"
+  },
+  {
+    "fichier": "hip-abduction-machine.gif",
+    "nom_fr": "Machine à abducteurs",
+    "nom_en": "Hip abduction machine",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Cadeira abdutora"
+  },
+  {
+    "fichier": "hip-adduction-machine.gif",
+    "nom_fr": "Machine à adducteurs",
+    "nom_en": "Hip adduction machine",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Cadeira adutora"
+  },
+  {
+    "fichier": "seated-hip-adduction-machine.gif",
+    "nom_fr": "Machine à adducteurs assis",
+    "nom_en": "Seated hip adduction machine",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "cadeira adutora"
+  },
+  {
+    "fichier": "farmers-walk.gif",
+    "nom_fr": "Marche du fermier",
+    "nom_en": "Farmers walk",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "benefits-of-farmers-walks"
+  },
+  {
+    "fichier": "trap-bar-farmers-carry.gif",
+    "nom_fr": "Marche du fermier à la trap bar",
+    "nom_en": "Trap bar farmer's carry",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "66071301-Resistance-Band-Lateral-Walk-(male)_Hips_360.gif",
+    "nom_fr": "Marche latérale à l'élastique",
+    "nom_en": "Resistance band lateral walk",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "nordic-hamstring-curl.gif",
+    "nom_fr": "Nordic curl",
+    "nom_en": "Nordic hamstring curl",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Flexão nórdica"
+  },
+  {
+    "fichier": "resistance-band-assisted-nordic-hamstring-curl.webp",
+    "nom_fr": "Nordic curl assisté à l'élastique",
+    "nom_en": "Band-assisted Nordic hamstring curl",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "nordic-hamstring-curl-avec-elastique-avec-espalier.gif",
+    "nom_fr": "Nordic curl assisté à l'élastique à l'espalier",
+    "nom_en": "Band-assisted Nordic curl on wall bars",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "pistol-squat.gif",
+    "nom_fr": "Pistol squat",
+    "nom_en": "Pistol squat",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Pistol"
+  },
+  {
+    "fichier": "pistol-squat-v2.gif",
+    "nom_fr": "Pistol squat (variante)",
+    "nom_en": "Pistol squat (variant)",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Pistol 02"
+  },
+  {
+    "fichier": "straight-leg-glute-bridge.gif",
+    "nom_fr": "Pont fessier jambes tendues",
+    "nom_en": "Straight leg glute bridge",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "straight-leg-glute-bridge"
+  },
+  {
+    "fichier": "feet-elevated-glute-bridge.gif",
+    "nom_fr": "Pont fessier pieds surélevés",
+    "nom_en": "Feet elevated glute bridge",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação pélvica pés elevados"
+  },
+  {
+    "fichier": "feet-elevated-glute-bridge-v2.gif",
+    "nom_fr": "Pont fessier pieds surélevés (variante)",
+    "nom_en": "Feet elevated glute bridge (variant)",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação pélvica pés elevados 02"
+  },
+  {
+    "fichier": "single-leg-glute-bridge.gif",
+    "nom_fr": "Pont fessier unilatéral",
+    "nom_en": "Single leg glute bridge",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "single-leg-glute-bridge"
+  },
+  {
+    "fichier": "single-leg-glute-bridge-floor.gif",
+    "nom_fr": "Pont fessier unilatéral au sol",
+    "nom_en": "Single leg glute bridge floor",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação pélvica unilateral"
+  },
+  {
+    "fichier": "single-leg-glute-bridge-bench.gif",
+    "nom_fr": "Pont fessier unilatéral pied sur banc",
+    "nom_en": "Single leg glute bridge bench",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "ELEVAÇÃO PÉLVICA APOIO UNILATERAL"
+  },
+  {
+    "fichier": "leg press.gif",
+    "nom_fr": "Presse à cuisses",
+    "nom_en": "Leg press",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "single-leg-press-45.gif",
+    "nom_fr": "Presse à cuisses 45° unilatérale",
+    "nom_en": "Single leg press 45",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Leg press 45 unilateral"
+  },
+  {
+    "fichier": "horizontal-leg-press.gif",
+    "nom_fr": "Presse à cuisses horizontale",
+    "nom_en": "Horizontal leg press",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Leg press horizontal"
+  },
+  {
+    "fichier": "presse-a-cuisses-inclinee-2.gif",
+    "nom_fr": "Presse à cuisses inclinée",
+    "nom_en": "45-degree leg press",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "wide-stance-leg-press.gif",
+    "nom_fr": "Presse à cuisses pieds écartés",
+    "nom_en": "Wide stance leg press",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "leg press pés afastados"
+  },
+  {
+    "fichier": "one-leg-quarter-squat.gif",
+    "nom_fr": "Quart de squat sur une jambe",
+    "nom_en": "Single-leg quarter squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "barbell-quarter-squat.gif",
+    "nom_fr": "Quart de squat à la barre",
+    "nom_en": "Barbell quarter squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "Relevé de bassin.webp",
+    "nom_fr": "Relevé de bassin",
+    "nom_en": "Glute bridge",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "bodyweight-standing-sissy-squat.webp",
+    "nom_fr": "Sissy squat",
+    "nom_en": "Sissy squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "dumbbell-deadlift.gif",
+    "nom_fr": "Soulevé de terre aux haltères",
+    "nom_en": "Dumbbell deadlift",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "levantamento tarra com halteres"
+  },
+  {
+    "fichier": "57021301-Barbell-Deadlift-from-Deficit_Hips_360.gif",
+    "nom_fr": "Soulevé de terre en déficit",
+    "nom_en": "Deficit barbell deadlift",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "dumbbell-stiff-leg-deadlift.gif",
+    "nom_fr": "Soulevé de terre jambes tendues aux haltères (variante)",
+    "nom_en": "Dumbbell stiff leg deadlift",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Stiff com halteres"
+  },
+  {
+    "fichier": "single-leg-stiff-leg-deadlift.gif",
+    "nom_fr": "Soulevé de terre jambes tendues unilatéral",
+    "nom_en": "Single leg stiff leg deadlift",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "stiff unilateral"
+  },
+  {
+    "fichier": "band-stiff-leg-deadlift.webp",
+    "nom_fr": "Soulevé de terre jambes tendues à l'élastique",
+    "nom_en": "Band stiff-leg deadlift",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "barbell-stiff-leg-deadlift.gif",
+    "nom_fr": "Soulevé de terre jambes tendues à la barre",
+    "nom_en": "Barbell stiff leg deadlift",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Stiff02"
+  },
+  {
+    "fichier": "barbell-stiff-leg-deadlift-v3.gif",
+    "nom_fr": "Soulevé de terre jambes tendues à la barre (variante 2)",
+    "nom_en": "Barbell stiff leg deadlift (variant 2)",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "stiff com barra"
+  },
+  {
+    "fichier": "barbell-stiff-leg-deadlift-v2.gif",
+    "nom_fr": "Soulevé de terre jambes tendues à la barre (variante)",
+    "nom_en": "Barbell stiff leg deadlift (variant)",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "stiff"
+  },
+  {
+    "fichier": "smith-machine-stiff-leg-deadlift.gif",
+    "nom_fr": "Soulevé de terre jambes tendues à la Smith",
+    "nom_en": "Smith machine stiff leg deadlift",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "stiff no smth"
+  },
+  {
+    "fichier": "dumbbell-romanian-deadlift.gif",
+    "nom_fr": "Soulevé de terre roumain aux haltères",
+    "nom_en": "Dumbbell Romanian deadlift",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "100471301-Barbell-Split-Stance-RDL_Hips_360.gif",
+    "nom_fr": "Soulevé de terre roumain en fente à la barre",
+    "nom_en": "Barbell split-stance Romanian deadlift",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "landmine-romanian-deadlift.webp",
+    "nom_fr": "Soulevé de terre roumain landmine",
+    "nom_en": "Landmine Romanian deadlift",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "Barbell-Romanian-Deadlift.gif",
+    "nom_fr": "Soulevé de terre roumain à la barre",
+    "nom_en": "Barbell Romanian deadlift",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "dumbbell-sumo-deadlift.gif",
+    "nom_fr": "Soulevé de terre sumo aux haltères",
+    "nom_en": "Dumbbell sumo deadlift",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Agachamento terra com halteres do lado"
+  },
+  {
+    "fichier": "barbell-sumo-deadlift.gif",
+    "nom_fr": "Soulevé de terre sumo à la barre",
+    "nom_en": "Barbell sumo deadlift",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Agachamento sumo barra"
+  },
+  {
+    "fichier": "42031301-Barbell-Banded-Sumo-Deadlift_Hips_360.gif",
+    "nom_fr": "Soulevé de terre sumo à la barre avec élastiques",
+    "nom_en": "Barbell banded sumo deadlift",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "60341301-Barbell-Deadlift-from-Blocks_Hips_360.gif",
+    "nom_fr": "Soulevé de terre sur blocs",
+    "nom_en": "Barbell block pull",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "single-leg-deadlift.gif",
+    "nom_fr": "Soulevé de terre sur une jambe",
+    "nom_en": "Single leg deadlift",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Avião unilateral"
+  },
+  {
+    "fichier": "kettlebell-single-leg-deadlift.gif",
+    "nom_fr": "Soulevé de terre sur une jambe au kettlebell",
+    "nom_en": "Kettlebell single leg deadlift",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "stiff unilateral com kettibel"
+  },
+  {
+    "fichier": "medicine-ball-single-leg-deadlift.gif",
+    "nom_fr": "Soulevé de terre sur une jambe au medecine ball",
+    "nom_en": "Medicine ball single leg deadlift",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Stiff unil com medball"
+  },
+  {
+    "fichier": "dumbbell-single-leg-deadlift.gif",
+    "nom_fr": "Soulevé de terre sur une jambe aux haltères",
+    "nom_en": "Dumbbell single leg deadlift",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Aviaão com halteres"
+  },
+  {
+    "fichier": "barbell-single-leg-deadlift.gif",
+    "nom_fr": "Soulevé de terre sur une jambe à la barre",
+    "nom_en": "Barbell single-leg deadlift",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "smith-machine-single-leg-deadlift.gif",
+    "nom_fr": "Soulevé de terre sur une jambe à la Smith",
+    "nom_en": "Smith machine single leg deadlift",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "stiff no smth unilateral"
+  },
+  {
+    "fichier": "band-single-stiff-leg-deadlift-with-single-arm-row.webp",
+    "nom_fr": "Soulevé de terre unilatéral et rowing à l'élastique",
+    "nom_en": "Band single-leg deadlift with one-arm row",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "barbell-zercher-deadlift.webp",
+    "nom_fr": "Soulevé de terre Zercher",
+    "nom_en": "Barbell Zercher deadlift",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "00321301-Barbell-Deadlift_Hips-FIX2_360.gif",
+    "nom_fr": "Soulevé de terre à la barre",
+    "nom_en": "Barbell deadlift",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "souleve-de-terre-a-la-trap-bar.gif",
+    "nom_fr": "Soulevé de terre à la trap bar",
+    "nom_en": "Trap bar deadlift",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "squat.webp",
+    "nom_fr": "Squat",
+    "nom_en": "Squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "lever-seated-squat.webp",
+    "nom_fr": "Squat assis à la machine",
+    "nom_en": "Lever seated squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "exercise-ball-wall-squat.gif",
+    "nom_fr": "Squat au mur avec ballon suisse",
+    "nom_en": "Exercise ball wall squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "front-squat-rack.gif",
+    "nom_fr": "Squat avant au rack",
+    "nom_en": "Front squat rack",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Front squat"
+  },
+  {
+    "fichier": "barbell-pin-front-squat.webp",
+    "nom_fr": "Squat avant depuis les goupilles",
+    "nom_en": "Barbell pin front squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "barbell-front-squat.gif",
+    "nom_fr": "Squat avant à la barre",
+    "nom_en": "Barbell front squat",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Agachamento frontal 02"
+  },
+  {
+    "fichier": "00241301-Barbell-Bench-Front-Squat_thighs_360.gif",
+    "nom_fr": "Squat avant à la barre sur banc",
+    "nom_en": "Barbell bench front squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "weighted-counterbalanced-squat.webp",
+    "nom_fr": "Squat avec contrepoids",
+    "nom_en": "Counterbalanced squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "bulgarian-split-squat.gif",
+    "nom_fr": "Squat bulgare",
+    "nom_en": "Bulgarian split squat",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "bulgarian-split-spuat"
+  },
+  {
+    "fichier": "dumbbell-assisted-bulgarian-split-squat.webp",
+    "nom_fr": "Squat bulgare assisté aux haltères",
+    "nom_en": "Assisted dumbbell Bulgarian split squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "dumbbell-bulgarian-split-squat.gif",
+    "nom_fr": "Squat bulgare aux haltères",
+    "nom_en": "Dumbbell bulgarian split squat",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Bulgaro com halteres"
+  },
+  {
+    "fichier": "dumbbell-bulgarian-split-squat-v2.gif",
+    "nom_fr": "Squat bulgare aux haltères (variante)",
+    "nom_en": "Dumbbell bulgarian split squat (variant)",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "agachamento bulgaro"
+  },
+  {
+    "fichier": "barbell-bulgarian-split-squat.gif",
+    "nom_fr": "Squat bulgare à la barre",
+    "nom_en": "Barbell bulgarian split squat",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "agachamento bulgaro com barra"
+  },
+  {
+    "fichier": "barbell-full-squat.webp",
+    "nom_fr": "Squat complet à la barre",
+    "nom_en": "Barbell full squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "smith-full-squat.webp",
+    "nom_fr": "Squat complet à la Smith",
+    "nom_en": "Smith machine full squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "squat-goblet-exercice-musculation.gif",
+    "nom_fr": "Squat goblet",
+    "nom_en": "Goblet squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "landmine-squat.gif",
+    "nom_fr": "Squat landmine",
+    "nom_en": "Landmine squat",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Agachamento 03"
+  },
+  {
+    "fichier": "narrow-stance-bodyweight-squat.gif",
+    "nom_fr": "Squat pieds joints au poids du corps",
+    "nom_en": "Narrow stance bodyweight squat",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "agachamento livre pés juntos"
+  },
+  {
+    "fichier": "barbell-deep-squat.gif",
+    "nom_fr": "Squat profond à la barre",
+    "nom_en": "Barbell deep squat",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "tiefe_langhantel_kniebeuge"
+  },
+  {
+    "fichier": "bodyweight-sumo-squat.gif",
+    "nom_fr": "Squat sumo au poids du corps",
+    "nom_en": "Bodyweight sumo squat",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Agachmento sumo"
+  },
+  {
+    "fichier": "bodyweight-sumo-squat-v2.gif",
+    "nom_fr": "Squat sumo au poids du corps (variante)",
+    "nom_en": "Bodyweight sumo squat (variant)",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Agachamento Sumo Peso Corporal"
+  },
+  {
+    "fichier": "dumbbell-sumo-squat.gif",
+    "nom_fr": "Squat sumo aux haltères",
+    "nom_en": "Dumbbell sumo squat",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "agachamento sumo com halteres"
+  },
+  {
+    "fichier": "bodyweight-sumo-squat-v3.gif",
+    "nom_fr": "Squat sumo libre",
+    "nom_en": "Bodyweight sumo squat (variant 2)",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "agachamento sumo livre"
+  },
+  {
+    "fichier": "dumbbell-sumo-squat-v2.gif",
+    "nom_fr": "Squat sumo à l'haltère (variante)",
+    "nom_en": "Dumbbell sumo squat (variant)",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Agachamento sumo com halteres"
+  },
+  {
+    "fichier": "barbell-sumo-squat.gif",
+    "nom_fr": "Squat sumo à la barre",
+    "nom_en": "Barbell sumo squat",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Agachamento sumo 01"
+  },
+  {
+    "fichier": "bodyweight-bench-squat.webp",
+    "nom_fr": "Squat sur banc au poids du corps",
+    "nom_en": "Bodyweight box squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "dumbbell-box-squat.gif",
+    "nom_fr": "Squat sur banc aux haltères",
+    "nom_en": "Dumbbell box squat",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "agachamento no banco"
+  },
+  {
+    "fichier": "barbell-banded-bench-squat.webp",
+    "nom_fr": "Squat sur banc à la barre avec élastiques",
+    "nom_en": "Barbell banded box squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "calf-squat.gif",
+    "nom_fr": "Squat sur la pointe des pieds",
+    "nom_en": "Calf squat",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "calf-squats"
+  },
+  {
+    "fichier": "dumbbell-single-leg-squat.gif",
+    "nom_fr": "Squat sur une jambe aux haltères",
+    "nom_en": "Dumbbell single leg squat",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Agachamento com halteres com uma perna"
+  },
+  {
+    "fichier": "single-leg-bench-squat.webp",
+    "nom_fr": "Squat sur une jambe sur banc",
+    "nom_en": "Single-leg bench squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "band-squat.webp",
+    "nom_fr": "Squat à l'élastique",
+    "nom_en": "Band squat",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "barbell-squat-2-sec-hold.webp",
+    "nom_fr": "Squat à la barre avec pause de 2 secondes",
+    "nom_en": "Barbell squat with 2-second hold",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "wide-stance-barbell-squat.gif",
+    "nom_fr": "Squat à la barre pieds écartés",
+    "nom_en": "Wide stance barbell squat",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "agachamento pés afastados"
+  },
+  {
+    "fichier": "lever-squat-machine.gif",
+    "nom_fr": "Squat à la machine",
+    "nom_en": "Lever squat machine",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "agachamento na maquina"
+  },
+  {
+    "fichier": "cable-squat.gif",
+    "nom_fr": "Squat à la poulie",
+    "nom_en": "Cable squat",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Agachamento com cabo"
+  },
+  {
+    "fichier": "cable-squat-v2.gif",
+    "nom_fr": "Squat à la poulie (variante)",
+    "nom_en": "Cable squat (variant)",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "agachamento no cross"
+  },
+  {
+    "fichier": "barbell-step-up.gif",
+    "nom_fr": "Step-up à la barre",
+    "nom_en": "Barbell step up",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Step up 01"
+  },
+  {
+    "fichier": "cable-step-up.gif",
+    "nom_fr": "Step-up à la poulie",
+    "nom_en": "Cable step up",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "cable-step-up"
+  },
+  {
+    "fichier": "05491301-Kettlebell-Swing_Hips-FIX_360.gif",
+    "nom_fr": "Swing au kettlebell",
+    "nom_en": "Kettlebell swing",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "kettlebell-swing.webp",
+    "nom_fr": "Swing au kettlebell",
+    "nom_en": "Kettlebell swing",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "41671301-Kettlebell-Banded-Swing_Hips_360.gif",
+    "nom_fr": "Swing au kettlebell avec élastique",
+    "nom_en": "Kettlebell banded swing",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "33681301-Dumbbell-Swing_Hips_360.gif",
+    "nom_fr": "Swing à l'haltère",
+    "nom_en": "Dumbbell swing",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "29701301-Band-Thruster_360.gif",
+    "nom_fr": "Thruster à l'élastique",
+    "nom_en": "Band thruster",
+    "zone": "membres-inferieurs",
+    "source": "existant"
+  },
+  {
+    "fichier": "barbell-power-clean.gif",
+    "nom_fr": "Épaulé à la barre",
+    "nom_en": "Barbell power clean",
+    "zone": "membres-inferieurs",
+    "source": "drive-animacoes",
+    "nom_pt": "Clean"
+  },
+  {
+    "fichier": "push-through-reach.webp",
+    "nom_fr": "Allongement en poussée",
+    "nom_en": "Push-through reach",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "roll-calves.webp",
+    "nom_fr": "Automassage des mollets au rouleau",
+    "nom_en": "Calf foam roll",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "roll-upper-back.webp",
+    "nom_fr": "Automassage du haut du dos au rouleau",
+    "nom_en": "Upper back foam roll",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "roll-ball-piriformis.webp",
+    "nom_fr": "Automassage du piriforme à la balle",
+    "nom_en": "Ball roll, piriformis",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "roll-tensor-fasciae-latae.webp",
+    "nom_fr": "Automassage du tenseur du fascia lata",
+    "nom_en": "TFL foam roll",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "side-to-side-leg-swings.webp",
+    "nom_fr": "Balancements de jambe latéraux",
+    "nom_en": "Side-to-side leg swings",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "inchworm.gif",
+    "nom_fr": "Chenille (inchworm)",
+    "nom_en": "Inchworm",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "pike-to-cobra.gif",
+    "nom_fr": "Du chien tête en bas au cobra",
+    "nom_en": "Pike to cobra",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "stick-pass-around-stretch.webp",
+    "nom_fr": "Passage d'épaules au bâton",
+    "nom_en": "Stick pass-through",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "child-pose.webp",
+    "nom_fr": "Posture de l'enfant",
+    "nom_en": "Child's pose",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "crab-pose.webp",
+    "nom_fr": "Posture du crabe",
+    "nom_en": "Crab pose",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "sphinx.webp",
+    "nom_fr": "Posture du sphinx",
+    "nom_en": "Sphinx stretch",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "bent-knee-lying-twist.webp",
+    "nom_fr": "Rotation allongé genoux fléchis",
+    "nom_en": "Bent-knee lying twist",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "dynamic-90-90-hip-twist.webp",
+    "nom_fr": "Rotation dynamique des hanches 90/90",
+    "nom_en": "Dynamic 90/90 hip switch",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "rotation-dynamique-des-hanches-90-90.gif",
+    "nom_fr": "Rotation dynamique des hanches 90/90",
+    "nom_en": "Dynamic 90/90 hip rotation",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "band-lying-hip-internal-rotation.webp",
+    "nom_fr": "Rotation interne de hanche allongé à l'élastique",
+    "nom_en": "Band lying hip internal rotation",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "potty-squat-with-support.webp",
+    "nom_fr": "Squat profond tenu avec appui",
+    "nom_en": "Deep squat hold with support",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "90-to-90-stretch.webp",
+    "nom_fr": "Étirement 90/90",
+    "nom_en": "90/90 stretch",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "lying-glute-stretch.webp",
+    "nom_fr": "Étirement des fessiers allongé",
+    "nom_en": "Lying glute stretch",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "kneeling-hip-flexor-stretch.webp",
+    "nom_fr": "Étirement des fléchisseurs de hanche à genou",
+    "nom_en": "Kneeling hip flexor stretch",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "quadriceps-stretch.webp",
+    "nom_fr": "Étirement des quadriceps",
+    "nom_en": "Quadriceps stretch",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "exercise-ball-back-stretch.webp",
+    "nom_fr": "Étirement du dos sur ballon",
+    "nom_en": "Exercise ball back stretch",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "stick-lat-stretch.webp",
+    "nom_fr": "Étirement du grand dorsal au bâton",
+    "nom_en": "Stick lat stretch",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "half-pigeon-hip-stretch.webp",
+    "nom_fr": "Étirement du pigeon",
+    "nom_en": "Half pigeon hip stretch",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "kneeling-sartorius-stretch.webp",
+    "nom_fr": "Étirement du sartorius à genou",
+    "nom_en": "Kneeling sartorius stretch",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "twist-step-stretch.webp",
+    "nom_fr": "Étirement en fente avec rotation",
+    "nom_en": "Twisting step stretch",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "lying-knee-roll-over-stretch.gif",
+    "nom_fr": "Étirement en rotation genoux allongé",
+    "nom_en": "Lying knee roll-over stretch",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "standing-knee-to-chest-stretch.gif",
+    "nom_fr": "Étirement genou-poitrine debout",
+    "nom_en": "Standing knee-to-chest stretch",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "one-arm-lat-stretch.gif",
+    "nom_fr": "Étirement unilatéral du grand dorsal",
+    "nom_en": "One-arm lat stretch",
+    "zone": "mobilite",
+    "source": "existant"
+  },
+  {
+    "fichier": "chest-dip.gif",
+    "nom_fr": "Dips pectoraux",
+    "nom_en": "Chest dip",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "peito na paralela"
+  },
+  {
+    "fichier": "assisted-chest-dip-machine.gif",
+    "nom_fr": "Dips pectoraux assistés à la machine",
+    "nom_en": "Assisted chest dip machine",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Paralelas graviton"
+  },
+  {
+    "fichier": "dumbbell-floor-press.gif",
+    "nom_fr": "Développé au sol aux haltères",
+    "nom_en": "Dumbbell floor press",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "dumbbell-floor-press"
+  },
+  {
+    "fichier": "alternating-dumbbell-bench-press.gif",
+    "nom_fr": "Développé couché alterné aux haltères",
+    "nom_en": "Alternating dumbbell bench press",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "SUPINO ALTERNADO COM HALTERES"
+  },
+  {
+    "fichier": "dumbbell-bench-press.webp",
+    "nom_fr": "Développé couché aux haltères",
+    "nom_en": "Dumbbell bench press",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "dumbbell-banded-bench-press.webp",
+    "nom_fr": "Développé couché aux haltères avec élastique",
+    "nom_en": "Dumbbell banded bench press",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "flat-bench-cable-press.gif",
+    "nom_fr": "Développé couché aux poulies",
+    "nom_en": "Flat bench cable press",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "supino reto  no cross"
+  },
+  {
+    "fichier": "barbell-pause-bench-press.webp",
+    "nom_fr": "Développé couché avec pause",
+    "nom_en": "Barbell pause bench press",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "guillotine-bench-press.gif",
+    "nom_fr": "Développé couché guillotine (canadien)",
+    "nom_en": "Guillotine bench press",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Supino canadense"
+  },
+  {
+    "fichier": "bench-press-feet-up.gif",
+    "nom_fr": "Développé couché pieds levés",
+    "nom_en": "Bench press feet up",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "bench-press-feet-up"
+  },
+  {
+    "fichier": "wide-grip-barbell-bench-press.gif",
+    "nom_fr": "Développé couché prise large",
+    "nom_en": "Wide grip barbell bench press",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "supino reto pegada aberta"
+  },
+  {
+    "fichier": "dumbbell-one-arm-chest-press.gif",
+    "nom_fr": "Développé couché unilatéral à l'haltère",
+    "nom_en": "Dumbbell one arm chest press",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "dumbbell-one-arm-chest-press"
+  },
+  {
+    "fichier": "barbell-bench-press.webp",
+    "nom_fr": "Développé couché à la barre",
+    "nom_en": "Barbell bench press",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "lever-chest-press.gif",
+    "nom_fr": "Développé couché à la machine à levier",
+    "nom_en": "Lever chest press",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Supino máquina"
+  },
+  {
+    "fichier": "smith-machine-bench-press.gif",
+    "nom_fr": "Développé couché à la Smith",
+    "nom_en": "Smith machine bench press",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Supino smith"
+  },
+  {
+    "fichier": "decline-dumbbell-bench-press.gif",
+    "nom_fr": "Développé décliné aux haltères",
+    "nom_en": "Decline dumbbell bench press",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "supino declinado com halteres"
+  },
+  {
+    "fichier": "barbell-pause-decline-bench-press.webp",
+    "nom_fr": "Développé décliné avec pause",
+    "nom_en": "Barbell pause decline bench press",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "smith-machine-wide-decline-press.gif",
+    "nom_fr": "Développé décliné prise large à la Smith",
+    "nom_en": "Smith machine wide decline press",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "supino declinado barrapegada aberta"
+  },
+  {
+    "fichier": "barbell-decline-bench-press.gif",
+    "nom_fr": "Développé décliné à la barre",
+    "nom_en": "Barbell decline bench press",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "barbell-decline-bench-press"
+  },
+  {
+    "fichier": "barbell-decline-bench-press-v2.gif",
+    "nom_fr": "Développé décliné à la barre (variante)",
+    "nom_en": "Barbell decline bench press (variant)",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "supino declinado barra"
+  },
+  {
+    "fichier": "smith-machine-decline-press.gif",
+    "nom_fr": "Développé décliné à la Smith",
+    "nom_en": "Smith machine decline press",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Declinado smith"
+  },
+  {
+    "fichier": "smith-machine-decline-press-v2.gif",
+    "nom_fr": "Développé décliné à la Smith (variante)",
+    "nom_en": "Smith machine decline press (variant)",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "supino declinado no smit"
+  },
+  {
+    "fichier": "incline-bench-press-rack.gif",
+    "nom_fr": "Développé incliné au rack",
+    "nom_en": "Incline bench press rack",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "supino inclinado banco"
+  },
+  {
+    "fichier": "developpe-incline-halteres-exercice-musculation.gif",
+    "nom_fr": "Développé incliné aux haltères",
+    "nom_en": "Incline dumbbell bench press",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "incline-cable-fly.gif",
+    "nom_fr": "Développé incliné aux poulies",
+    "nom_en": "Incline cable fly",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "supino inclinado banco cross"
+  },
+  {
+    "fichier": "barbell-pause-incline-bench-press.webp",
+    "nom_fr": "Développé incliné avec pause",
+    "nom_en": "Barbell pause incline bench press",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "incline-barbell-bench-press.gif",
+    "nom_fr": "Développé incliné à la barre",
+    "nom_en": "Incline barbell bench press",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "incline-barbell-bench-press"
+  },
+  {
+    "fichier": "developpe-incline-machine-convergente-exercice-musculation.gif",
+    "nom_fr": "Développé incliné à la machine convergente",
+    "nom_en": "Converging incline chest press machine",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "smith-machine-incline-press.gif",
+    "nom_fr": "Développé incliné à la Smith",
+    "nom_en": "Smith machine incline press",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "INCLINADO NO SMITH"
+  },
+  {
+    "fichier": "smith-machine-incline-bench-press.gif",
+    "nom_fr": "Développé incliné à la Smith (variante)",
+    "nom_en": "Smith machine incline bench press",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "supino inclinado banco no smith"
+  },
+  {
+    "fichier": "landmine-kneeling-squeeze-press.webp",
+    "nom_fr": "Développé landmine serré à genoux",
+    "nom_en": "Landmine kneeling squeeze press",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "lever-chest-press-v2.gif",
+    "nom_fr": "Développé pectoral à la machine articulée",
+    "nom_en": "Lever chest press (variant)",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "supino articulado maquina"
+  },
+  {
+    "fichier": "cable-chest-press.gif",
+    "nom_fr": "Développé pectoral à la poulie",
+    "nom_en": "Cable chest press",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Press peitoral cabo"
+  },
+  {
+    "fichier": "close-grip-dumbbell-press.gif",
+    "nom_fr": "Développé serré aux haltères",
+    "nom_en": "Close grip dumbbell press",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Supino fechado com halteres"
+  },
+  {
+    "fichier": "pec-deck.gif",
+    "nom_fr": "Pec deck",
+    "nom_en": "Pec deck",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Peck deck"
+  },
+  {
+    "fichier": "push-up-m.webp",
+    "nom_fr": "Pompes",
+    "nom_en": "Push-up",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "archer-push-up.webp",
+    "nom_fr": "Pompes archer",
+    "nom_en": "Archer push-up",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "band-assisted-push-up.gif",
+    "nom_fr": "Pompes assistées à l'élastique",
+    "nom_en": "Band assisted push up",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Flexão assistida"
+  },
+  {
+    "fichier": "shoulder-tap-push-up.webp",
+    "nom_fr": "Pompes avec touche d'épaule",
+    "nom_en": "Shoulder tap push-up",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "clap-push-up.gif",
+    "nom_fr": "Pompes claquées",
+    "nom_en": "Clap push up",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Apoio batendo palmas"
+  },
+  {
+    "fichier": "deficit-push-up.gif",
+    "nom_fr": "Pompes en déficit",
+    "nom_en": "Deficit push up",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "deficit-push-ups"
+  },
+  {
+    "fichier": "bench-incline-push-up.gif",
+    "nom_fr": "Pompes inclinées sur banc",
+    "nom_en": "Bench incline push up",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Flexão apoio alto banco"
+  },
+  {
+    "fichier": "box-incline-push-up.gif",
+    "nom_fr": "Pompes inclinées sur box",
+    "nom_en": "Box incline push up",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Flexão apoio alto"
+  },
+  {
+    "fichier": "wide-push-up-side-shift.gif",
+    "nom_fr": "Pompes larges avec transfert latéral",
+    "nom_en": "Wide push up side shift",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Flexão aberta lateral"
+  },
+  {
+    "fichier": "elevanted-push-up.webp",
+    "nom_fr": "Pompes pieds surélevés",
+    "nom_en": "Feet-elevated push-up",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "pike-push-up.gif",
+    "nom_fr": "Pompes piquées",
+    "nom_en": "Pike push up",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "pike-push-up"
+  },
+  {
+    "fichier": "plyo-push-up.webp",
+    "nom_fr": "Pompes pliométriques",
+    "nom_en": "Plyometric push-up",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "wide-push-up.gif",
+    "nom_fr": "Pompes prise large",
+    "nom_en": "Wide push up",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "flex de cotovelo braços aberto"
+  },
+  {
+    "fichier": "knee-push-up.gif",
+    "nom_fr": "Pompes sur les genoux",
+    "nom_en": "Knee push up",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "knee-push-ups"
+  },
+  {
+    "fichier": "knee-push-up-female.gif",
+    "nom_fr": "Pompes sur les genoux (femme)",
+    "nom_en": "Knee push up female",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Flexão com apoio dos joelhos"
+  },
+  {
+    "fichier": "medicine-ball-push-up.gif",
+    "nom_fr": "Pompes sur medecine ball",
+    "nom_en": "Medicine ball push up",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Apoio de frente com medball"
+  },
+  {
+    "fichier": "push-up-bars.gif",
+    "nom_fr": "Pompes sur poignées",
+    "nom_en": "Push up bars",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "push-up-bars"
+  },
+  {
+    "fichier": "step-push-up.gif",
+    "nom_fr": "Pompes sur step",
+    "nom_en": "Step push up",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Apoio de frente com step"
+  },
+  {
+    "fichier": "single-arm-push-up.webp",
+    "nom_fr": "Pompes sur un bras",
+    "nom_en": "Single-arm push-up",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "neutral-grip-chest-press-machine.gif",
+    "nom_fr": "Presse pectorale prise neutre",
+    "nom_en": "Neutral grip chest press machine",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "supino vertical pegada neutra maquina"
+  },
+  {
+    "fichier": "chest press machine.gif",
+    "nom_fr": "Presse pectorale à la machine",
+    "nom_en": "Chest press machine",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "lever-chest-press-v3.gif",
+    "nom_fr": "Presse pectorale à levier (variante)",
+    "nom_en": "Lever chest press (variant 2)",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Press peitoral 3"
+  },
+  {
+    "fichier": "straight-arm-dumbbell-pullover.gif",
+    "nom_fr": "Pull-over bras tendus à l'haltère",
+    "nom_en": "Straight arm dumbbell pullover",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Dumbbell covers com braços estendidos"
+  },
+  {
+    "fichier": "stability-ball-dumbbell-pullover.gif",
+    "nom_fr": "Pull-over sur ballon suisse",
+    "nom_en": "Stability ball dumbbell pullover",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Dumbbell covers na bola suiça"
+  },
+  {
+    "fichier": "dumbbell-pullover.gif",
+    "nom_fr": "Pull-over à l'haltère",
+    "nom_en": "Dumbbell pullover",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "dumbbell-pullover"
+  },
+  {
+    "fichier": "dumbbell-pullover-bench.gif",
+    "nom_fr": "Pull-over à l'haltère sur banc",
+    "nom_en": "Dumbbell pullover bench",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Dumbbell covers com halteres"
+  },
+  {
+    "fichier": "barbell-pullover-v2.gif",
+    "nom_fr": "Pull-over à la barre (variante)",
+    "nom_en": "Barbell pullover (variant)",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "barbell-pullover"
+  },
+  {
+    "fichier": "pullover-machine.gif",
+    "nom_fr": "Pull-over à la machine",
+    "nom_en": "Pullover machine",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Pullover máquina"
+  },
+  {
+    "fichier": "cable-seated-chest-fly.webp",
+    "nom_fr": "Écarté assis aux poulies",
+    "nom_en": "Cable seated chest fly",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "cable-crossover.gif",
+    "nom_fr": "Écarté aux poulies",
+    "nom_en": "Cable crossover",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "cable-cross-over"
+  },
+  {
+    "fichier": "low-cable-crossover.gif",
+    "nom_fr": "Écarté aux poulies basses",
+    "nom_en": "Low cable crossover",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Cross over polia baixa"
+  },
+  {
+    "fichier": "cable-fly.gif",
+    "nom_fr": "Écarté aux poulies debout",
+    "nom_en": "Cable fly",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "cable-fly"
+  },
+  {
+    "fichier": "high-cable-crossover.gif",
+    "nom_fr": "Écarté aux poulies hautes",
+    "nom_en": "High cable crossover",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Cross over alto"
+  },
+  {
+    "fichier": "high-cable-crossover-v2.gif",
+    "nom_fr": "Écarté aux poulies hautes (variante)",
+    "nom_en": "High cable crossover (variant)",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "crucifixo no cross polia alta"
+  },
+  {
+    "fichier": "cable-pronated-fly.gif",
+    "nom_fr": "Écarté aux poulies prise pronation",
+    "nom_en": "Cable pronated fly",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Crucifixo pegada pronada"
+  },
+  {
+    "fichier": "cable-crossover-v1.gif",
+    "nom_fr": "Écarté aux poulies vis-à-vis",
+    "nom_en": "Cable crossover v1",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Cross over 1"
+  },
+  {
+    "fichier": "dumbbell-fly.gif",
+    "nom_fr": "Écarté couché aux haltères",
+    "nom_en": "Dumbbell fly",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Crucifico com halteres"
+  },
+  {
+    "fichier": "dumbbell-fly-bench.gif",
+    "nom_fr": "Écarté couché aux haltères (variante)",
+    "nom_en": "Dumbbell fly bench",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Dumbbell fly • uitvoering en uitleg • Men_sPower"
+  },
+  {
+    "fichier": "flat-bench-cable-fly.gif",
+    "nom_fr": "Écarté couché aux poulies",
+    "nom_en": "Flat bench cable fly",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "crucifixo no cross banco reto"
+  },
+  {
+    "fichier": "standing-cable-fly-v2.gif",
+    "nom_fr": "Écarté debout aux poulies",
+    "nom_en": "Standing cable fly (variant)",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Cross over 2"
+  },
+  {
+    "fichier": "standing-cable-fly.gif",
+    "nom_fr": "Écarté debout aux poulies",
+    "nom_en": "Standing cable fly",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "crucifixo no cross em pé"
+  },
+  {
+    "fichier": "decline-cable-fly.gif",
+    "nom_fr": "Écarté décliné aux poulies",
+    "nom_en": "Decline cable fly",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "decline-cable-fly"
+  },
+  {
+    "fichier": "incline-dumbbell-fly.gif",
+    "nom_fr": "Écarté incliné aux haltères",
+    "nom_en": "Incline dumbbell fly",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Crucifixo inclinado com halteres"
+  },
+  {
+    "fichier": "incline-dumbbell-fly-v2.gif",
+    "nom_fr": "Écarté incliné aux haltères (variante)",
+    "nom_en": "Incline dumbbell fly (variant)",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "crucifixo inclinado banco com halteres"
+  },
+  {
+    "fichier": "incline-cable-fly-v2.gif",
+    "nom_fr": "Écarté incliné aux poulies (variante)",
+    "nom_en": "Incline cable fly (variant)",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Crucifixo inclinado no cabo 2"
+  },
+  {
+    "fichier": "single-arm-decline-cable-fly.gif",
+    "nom_fr": "Écarté unilatéral décliné à la poulie",
+    "nom_en": "Single arm decline cable fly",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Crucifixo unilateral declinado"
+  },
+  {
+    "fichier": "Chest fly machine.gif",
+    "nom_fr": "Écarté à la machine",
+    "nom_en": "Chest fly machine",
+    "zone": "pectoraux",
+    "source": "existant"
+  },
+  {
+    "fichier": "low-cable-chest-fly.gif",
+    "nom_fr": "Écarté à la poulie basse",
+    "nom_en": "Low cable chest fly",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "low-cable-chest-flys"
+  },
+  {
+    "fichier": "standing-low-cable-fly.gif",
+    "nom_fr": "Écarté à la poulie basse debout",
+    "nom_en": "Standing low cable fly",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "crucifixo beixo no croos em pe"
+  },
+  {
+    "fichier": "high-cable-fly.gif",
+    "nom_fr": "Écarté à la poulie haute",
+    "nom_en": "High cable fly",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "high-cable-fly"
+  },
+  {
+    "fichier": "diagonal-front-raise.gif",
+    "nom_fr": "Élévation frontale en diagonale",
+    "nom_en": "Diagonal front raise",
+    "zone": "pectoraux",
+    "source": "drive-animacoes",
+    "nom_pt": "Elevação frontal diagonal"
+  },
+  {
+    "fichier": "resistance-band-foot-inversion.webp",
+    "nom_fr": "Inversion du pied à l'élastique",
+    "nom_en": "Band foot inversion",
+    "zone": "pieds",
+    "source": "existant"
+  },
+  {
+    "fichier": "109201301-Seated-Single-Leg-Toes-Press-(male)_Feet_360.gif",
+    "nom_fr": "Pression des orteils assis unilatérale",
+    "nom_en": "Seated single-leg toe press",
+    "zone": "pieds",
+    "source": "existant"
+  },
+  {
+    "fichier": "96061301-Box-Drop-Jump-(male)_Plyometrics_360.gif",
+    "nom_fr": "Drop jump depuis une box",
+    "nom_en": "Box drop jump",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "47931301-Single-Leg-Hip-Thrust-Jump_Plyometrics_360.gif",
+    "nom_fr": "Hip thrust unilatéral explosif",
+    "nom_en": "Single-leg hip thrust jump",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "34391301-Medicine-Ball-Backward-Throw_Hips_360.gif",
+    "nom_fr": "Lancer arrière au medecine ball",
+    "nom_en": "Medicine ball backward throw",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "101091301-Medicine-Ball-Backward-Overhead-Toss-(male)_Hips_360.gif",
+    "nom_fr": "Lancer arrière par-dessus la tête au medecine ball",
+    "nom_en": "Medicine ball backward overhead toss",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "medicine-ball-half-kneeling-chest-push.webp",
+    "nom_fr": "Passe poitrine au medecine ball en semi-genou",
+    "nom_en": "Medicine ball half-kneeling chest pass",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "Pogo jump.gif",
+    "nom_fr": "Pogo jump",
+    "nom_en": "Pogo jump",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "95141301-Countermovement-Jump-Arms-on-Hip-(male)_Plyometrics_360.gif",
+    "nom_fr": "Saut avec contre-mouvement mains sur les hanches",
+    "nom_en": "Countermovement jump, hands on hips",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "101601301-Box-Jump-Drop-2-Foot-Land-(male)_Plyometrics_360.gif",
+    "nom_fr": "Saut de box et réception deux pieds",
+    "nom_en": "Box jump drop, two-foot landing",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "14721301-Forward-Jump_Plyometric_360.gif",
+    "nom_fr": "Saut en avant",
+    "nom_en": "Forward jump",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "34401301-Split-Jump-to-Box_360.gif",
+    "nom_fr": "Saut en fente sur box",
+    "nom_en": "Split jump to box",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "42421301-Broad-Jump-to-Vertical_Plyometrics_360.gif",
+    "nom_fr": "Saut en longueur puis vertical",
+    "nom_en": "Broad jump to vertical jump",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "38621301-Resistance-Band-Long-Jump_Plyometric_360.gif",
+    "nom_fr": "Saut en longueur à l'élastique",
+    "nom_en": "Resistance band long jump",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "suspender-squat-jump.webp",
+    "nom_fr": "Saut en squat à la sangle de suspension",
+    "nom_en": "Suspension trainer squat jump",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "38871301-Jump-Box-Over-(male)_Plyometrics_360.gif",
+    "nom_fr": "Saut par-dessus la box",
+    "nom_en": "Box jump over",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "49651301-Jump-Box-(male)_Plyometrics-FIX_360.gif",
+    "nom_fr": "Saut sur box",
+    "nom_en": "Box jump",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "109871301-Dumbbell-Jump-Box-(male)_Plyometrics_360.gif",
+    "nom_fr": "Saut sur box aux haltères",
+    "nom_en": "Dumbbell box jump",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "107431301-Kneeling-to-Box-Jump-(male)_Plyometrics_360.gif",
+    "nom_fr": "Saut sur box depuis les genoux",
+    "nom_en": "Kneeling to box jump",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "37201301-Stair-Jump_Plyometrics_360.gif",
+    "nom_fr": "Sauts de marches",
+    "nom_en": "Stair jump",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "medicine-ball-overhead-slam.webp",
+    "nom_fr": "Slam au medecine ball",
+    "nom_en": "Medicine ball overhead slam",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "38631301-Bulgarian-Jump-Squat_Thighs_360.gif",
+    "nom_fr": "Squat bulgare sauté",
+    "nom_en": "Bulgarian jump squat",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "05141301-Jump-Squat_Thighs_360.gif",
+    "nom_fr": "Squat sauté",
+    "nom_en": "Jump squat",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "15521301-Dumbbell-Jumping-Squat_Plyometric_360.gif",
+    "nom_fr": "Squat sauté aux haltères",
+    "nom_en": "Dumbbell jump squat",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "27971301-Barbell-Squat-Jump-Step-Rear-Lunge_Thighs_360.gif",
+    "nom_fr": "Squat sauté et fente arrière à la barre",
+    "nom_en": "Barbell squat jump to rear lunge",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "27981301-Barbell-Squat-Jump-Step-Rear-Lunge-(female)_Thighs_360.gif",
+    "nom_fr": "Squat sauté et fente arrière à la barre (femme)",
+    "nom_en": "Barbell squat jump to rear lunge (female)",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "00531301-Barbell-Jump-Squat_Thighs-FIX_360.gif",
+    "nom_fr": "Squat sauté à la barre",
+    "nom_en": "Barbell jump squat",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "suspender-jump-squat.webp",
+    "nom_fr": "Squat sauté à la sangle de suspension",
+    "nom_en": "Suspension trainer jump squat",
+    "zone": "pliometrie",
+    "source": "existant"
+  },
+  {
+    "fichier": "trap-bar-jump-squat.webp",
+    "nom_fr": "Squat sauté à la trap bar",
+    "nom_en": "Trap bar jump squat",
+    "zone": "pliometrie",
+    "source": "existant"
+  }
+]
